@@ -1,5 +1,76 @@
 {
- "orders": [],
+ "orders": [
+  {
+   "id": "AMD-XAU-2610220915-1",
+   "key": "AMD-extra (#386)|XAUUSD|2026-10-22 09:15|LONG|mkt",
+   "setup": "AMD-extra (#386)",
+   "market": "XAUUSD",
+   "direction": "LONG",
+   "kind": "market",
+   "t_sig": "2026-10-22 09:15:00",
+   "anchor": 4066.83,
+   "atr": 8.48285714285706,
+   "limit": null,
+   "tp_plan": 4131.17,
+   "cancel": null,
+   "max_rr": null,
+   "valid_until": null,
+   "valid_bars": null,
+   "close_eod": true,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.02,
+   "magic": 710102,
+   "features": {
+    "soort": "AMD",
+    "richting": "long",
+    "sweep_dag": "ja",
+    "fvg_nummer": "n.v.t.",
+    "trend_m15": "neutraal",
+    "trend_h1": "neutraal",
+    "trend_h4": "tegen",
+    "trend_d1": "neutraal",
+    "sessie": "Londen",
+    "weekdag": "do",
+    "volatiliteit": "hoog",
+    "amd_variant": "C2-E1",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "log",
+   "reason": "nieuw signaal (stand loggen: geen order) · marktorder · SL 4065.88",
+   "ticket": null,
+   "position": null,
+   "sl": 4065.88,
+   "tp": null,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-10-22 09:15:11.594382",
+     "signaal",
+     "AMD · XAUUSD · LONG: nieuw signaal (stand loggen: geen order) · marktorder · SL 4065.88"
+    ]
+   ]
+  }
+ ],
  "paused": false,
- "last_scan": "2026-10-22 08:15:00"
+ "last_scan": "2026-10-22 09:15:00"
 }

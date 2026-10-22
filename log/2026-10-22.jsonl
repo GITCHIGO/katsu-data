@@ -41,3 +41,7 @@
 {"time": "2026-10-22 09:00:15.953388", "kind": "scan", "text": "scan tot 22-10 09:00 · 0 nieuw, 0 gemist · 14.4s"}
 {"time": "2026-10-22 09:15:11.594382", "kind": "scan", "text": "scan tot 22-10 09:15 · 1 nieuw, 0 gemist · 13.3s"}
 {"time": "2026-10-22 09:15:11.594382", "kind": "signaal", "text": "AMD · XAUUSD · LONG: nieuw signaal (stand loggen: geen order) · marktorder · SL 4065.88", "order": "AMD-XAU-2610220915-1", "discord": true}
+{"time": "2026-10-22 09:30:16.234417", "kind": "scan", "text": "scan tot 22-10 09:30 · 0 nieuw, 0 gemist · 17.0s"}
+{"time": "2026-10-22 09:45:18.647298", "kind": "scan", "text": "scan tot 22-10 09:45 · 0 nieuw, 0 gemist · 14.1s"}
+{"time": "2026-10-22 10:00:14.007972", "kind": "scan", "text": "scan tot 22-10 10:00 · 0 nieuw, 0 gemist · 15.6s"}
+{"time": "2026-10-22 10:15:10.842491", "kind": "scan", "text": "scan tot 22-10 10:15 · 0 nieuw, 0 gemist · 13.7s"}

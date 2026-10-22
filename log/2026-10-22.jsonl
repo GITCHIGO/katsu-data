@@ -32,3 +32,7 @@
 {"time": "2026-10-22 06:59:35.693372", "kind": "info", "text": "KATSU Live gestart · account 53090711 (demo, EUR) · stand loggen · lots {'EURUSD': 0.1, 'GBPUSD': 0.1, 'XAUUSD': 0.02}"}
 {"time": "2026-10-22 07:00:15.856737", "kind": "scan", "text": "scan tot 22-10 07:00 · 0 nieuw, 0 gemist · 18.7s"}
 {"time": "2026-10-22 07:15:11.838830", "kind": "scan", "text": "scan tot 22-10 07:15 · 0 nieuw, 0 gemist · 12.7s"}
+{"time": "2026-10-22 07:30:15.714501", "kind": "scan", "text": "scan tot 22-10 07:30 · 0 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-10-22 07:45:19.235153", "kind": "scan", "text": "scan tot 22-10 07:45 · 0 nieuw, 0 gemist · 12.5s"}
+{"time": "2026-10-22 08:00:13.064997", "kind": "scan", "text": "scan tot 22-10 08:00 · 0 nieuw, 0 gemist · 13.6s"}
+{"time": "2026-10-22 08:15:17.975913", "kind": "scan", "text": "scan tot 22-10 08:15 · 0 nieuw, 0 gemist · 12.1s"}

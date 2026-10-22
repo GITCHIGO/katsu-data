@@ -1,0 +1,9 @@
+{
+ "antwoorden": [
+  {
+   "vraag_id": "e2ff8c9d2b",
+   "tijd": "2026-10-22T05:20:00+00:00",
+   "tekst": "**Kort: alles draait rustig en zonder fouten, maar er is nog niets te beoordelen.**\n\n- **KATSU Live** staat sinds gisteren (21-10, 07:44 Belgische tijd) op de demo-account in stand *loggen* (geen orders). Hij is verbonden, niet gepauzeerd, en heeft 91 scans gedaan, elke 15 minuten, zonder gaten of foutmeldingen.\n- **Signalen:** nog 0. Dat is niet verontrustend: in de vooruit-test (sinds 10-10) kwamen er 4 trades in ongeveer 9 handelsdagen, dus gemiddeld ±0,4 per dag. Een dag zonder signaal is normaal.\n- **Controle backtest ↔ MT5:** beide kanten 0 signalen, dus de 90%-overeenkomst kan nog niet gemeten worden. Pas na een paar signalen zegt dit iets.\n- **Vooruit-test:** 4 trades, samen +0,06R (2 winst, 2 verlies). FVG +1,54R, AMD-extra −1,03R, Zone GBPUSD −0,45R over 2 trades. Veel te weinig trades om iets te besluiten; alle stopregels staan op \"loopt\".\n- **VPS:** waakhond zegt \"alles in orde\", 73 GB vrij, geen vreemde trades op het account.\n- **Eén ding om na te kijken:** vanochtend werd KATSU twee keer herstart (05:26 met Ctrl+C, en 05:59 zonder stopmelding). Deed jij dat zelf, dan is er niets aan de hand. Zo niet, kijk dan even waarom hij om 05:59 opnieuw startte.\n\nVolgende echte meetpunt: de eerste signalen in stand loggen, en eind van de logweek (~28-10) de vergelijking met de backtest."
+  }
+ ]
+}

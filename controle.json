@@ -1,0 +1,15 @@
+{
+ "start": "2026-10-21 08:30:00",
+ "signalen": {
+  "backtest": 0,
+  "live": 0,
+  "gelijk": 0,
+  "pct": null,
+  "alleen_backtest": [],
+  "alleen_live": []
+ },
+ "trades": [],
+ "overeenkomst": null,
+ "n_trades": 0,
+ "n_gelijk": 0
+}

@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-10-23 08:17:59.395184",
- "tijd_utc": "2026-10-23T05:17:59+00:00",
+ "tijd_server": "2026-10-23 09:17:57.310465",
+ "tijd_utc": "2026-10-23T06:17:57+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "loggen",
@@ -13,7 +13,7 @@
   "balance": 5000.0,
   "equity": 5000.0
  },
- "laatste_scan": "2026-10-23 08:15:16.647535",
+ "laatste_scan": "2026-10-23 09:15:13.336324",
  "open_trades": [],
  "open_orders": [],
  "fouten": [

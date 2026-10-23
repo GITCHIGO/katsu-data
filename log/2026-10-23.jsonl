@@ -81,3 +81,8 @@
 {"time": "2026-10-23 19:45:19.448174", "kind": "scan", "text": "scan tot 23-10 19:45 · 0 nieuw, 0 gemist · 13.7s"}
 {"time": "2026-10-23 20:00:14.459789", "kind": "scan", "text": "scan tot 23-10 20:00 · 0 nieuw, 0 gemist · 15.5s"}
 {"time": "2026-10-23 20:15:11.486164", "kind": "scan", "text": "scan tot 23-10 20:15 · 0 nieuw, 0 gemist · 13.5s"}
+{"time": "2026-10-23 20:30:11.031131", "kind": "scan", "text": "scan tot 23-10 20:30 · 0 nieuw, 0 gemist · 12.2s"}
+{"time": "2026-10-23 20:45:14.631283", "kind": "scan", "text": "scan tot 23-10 20:45 · 0 nieuw, 0 gemist · 13.3s"}
+{"time": "2026-10-23 21:00:19.155599", "kind": "scan", "text": "scan tot 23-10 21:00 · 0 nieuw, 0 gemist · 15.5s"}
+{"time": "2026-10-23 21:14:08.795085", "kind": "info", "text": "KATSU Live gestart · account 53090711 (demo, EUR) · stand loggen · lots {'EURUSD': 0.1, 'GBPUSD': 0.1, 'XAUUSD': 0.02}"}
+{"time": "2026-10-23 21:15:19.043470", "kind": "scan", "text": "scan tot 23-10 21:15 · 0 nieuw, 0 gemist · 15.5s"}

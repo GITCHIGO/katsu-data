@@ -58,3 +58,7 @@
 {"time": "2026-10-24 12:05:50.008385", "kind": "fout", "text": "verbinding met MT5 al 2 min weg (sinds 12:03 server)"}
 {"time": "2026-10-24 12:12:20.177162", "kind": "info", "text": "verbinding met MT5 terug na 8.5 min"}
 {"time": "2026-10-24 12:15:10.200494", "kind": "scan", "text": "scan tot 24-10 12:15 · 0 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-10-24 12:30:13.764465", "kind": "scan", "text": "scan tot 24-10 12:30 · 0 nieuw, 0 gemist · 11.1s"}
+{"time": "2026-10-24 12:45:16.151691", "kind": "scan", "text": "scan tot 24-10 12:45 · 0 nieuw, 0 gemist · 11.7s"}
+{"time": "2026-10-24 13:00:19.094378", "kind": "scan", "text": "scan tot 24-10 13:00 · 0 nieuw, 0 gemist · 13.4s"}
+{"time": "2026-10-24 13:15:10.035807", "kind": "scan", "text": "scan tot 24-10 13:15 · 0 nieuw, 0 gemist · 13.6s"}

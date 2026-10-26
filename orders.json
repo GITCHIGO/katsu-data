@@ -69,8 +69,78 @@
      "AMD · XAUUSD · LONG: nieuw signaal (stand loggen: geen order) · marktorder · SL 4065.88"
     ]
    ]
+  },
+  {
+   "id": "T1-XAU-2610260615-1",
+   "key": "Test #1 (FVG)|XAUUSD|2026-10-26 06:15|LONG|3997.792860",
+   "setup": "Test #1 (FVG)",
+   "market": "XAUUSD",
+   "direction": "LONG",
+   "kind": "limit",
+   "t_sig": "2026-10-26 06:15:00",
+   "anchor": 3989.85,
+   "atr": 10.621428571428591,
+   "limit": 3997.79286,
+   "tp_plan": 4034.28,
+   "cancel": 4015.8028657142863,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.02,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "long",
+    "sweep_dag": "nee",
+    "fvg_nummer": "eerste",
+    "trend_m15": "tegen",
+    "trend_h1": "tegen",
+    "trend_h4": "tegen",
+    "trend_d1": "neutraal",
+    "sessie": "Azië",
+    "weekdag": "ma",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "vóór einde Azië",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "log",
+   "reason": "nieuw signaal (stand loggen: geen order) · limiet 3997.79 · SL 3988.69",
+   "ticket": null,
+   "position": null,
+   "sl": 3988.69,
+   "tp": null,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-10-26 06:15:12.710515",
+     "signaal",
+     "T1 · XAUUSD · LONG: nieuw signaal (stand loggen: geen order) · limiet 3997.79 · SL 3988.69"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-10-26 05:15:00"
+ "last_scan": "2026-10-26 06:15:00"
 }

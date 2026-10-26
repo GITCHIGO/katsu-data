@@ -28,3 +28,7 @@
 {"time": "2026-10-26 06:00:16.523209", "kind": "scan", "text": "scan tot 26-10 06:00 · 0 nieuw, 0 gemist · 14.9s"}
 {"time": "2026-10-26 06:15:12.710515", "kind": "scan", "text": "scan tot 26-10 06:15 · 1 nieuw, 0 gemist · 13.1s"}
 {"time": "2026-10-26 06:15:12.710515", "kind": "signaal", "text": "T1 · XAUUSD · LONG: nieuw signaal (stand loggen: geen order) · limiet 3997.79 · SL 3988.69", "order": "T1-XAU-2610260615-1", "discord": true}
+{"time": "2026-10-26 06:30:17.064721", "kind": "scan", "text": "scan tot 26-10 06:30 · 0 nieuw, 0 gemist · 11.2s"}
+{"time": "2026-10-26 06:45:19.426636", "kind": "scan", "text": "scan tot 26-10 06:45 · 0 nieuw, 0 gemist · 13.1s"}
+{"time": "2026-10-26 07:00:13.832949", "kind": "scan", "text": "scan tot 26-10 07:00 · 0 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-10-26 07:15:10.702491", "kind": "scan", "text": "scan tot 26-10 07:15 · 0 nieuw, 0 gemist · 12.4s"}

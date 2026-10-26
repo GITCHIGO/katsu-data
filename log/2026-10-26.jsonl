@@ -17,3 +17,9 @@
 {"time": "2026-10-26 03:45:11.746650", "kind": "scan", "text": "scan tot 26-10 03:45 · 0 nieuw, 0 gemist · 13.8s"}
 {"time": "2026-10-26 04:00:16.846398", "kind": "scan", "text": "scan tot 26-10 04:00 · 0 nieuw, 0 gemist · 19.5s"}
 {"time": "2026-10-26 04:15:17.691323", "kind": "scan", "text": "scan tot 26-10 04:15 · 0 nieuw, 0 gemist · 14.1s"}
+{"time": "2026-10-26 04:30:13.039451", "kind": "scan", "text": "scan tot 26-10 04:30 · 0 nieuw, 0 gemist · 11.7s"}
+{"time": "2026-10-26 04:33:05.808497", "kind": "fout", "text": "fout in de ronde van 04:33:05: PermissionError(13, 'Access is denied')"}
+{"time": "2026-10-26 04:33:05.808497", "kind": "traceback", "text": "Traceback (most recent call last):\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 291, in loop\n    self.once(now)\n    ~~~~~~~~~^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 284, in once\n    self.write_status(now)\n    ~~~~~~~~~~~~~~~~~^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 214, in write_status\n    _write_json(self.p[\"status\"], st)\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 308, in _write_json\n    os.replace(tmp, path)\n    ~~~~~~~~~~^^^^^^^^^^^\nPermissionError: [WinError 5] Access is denied: 'C:\\\\katsu\\\\data\\\\status.json.tmp' -> 'C:\\\\katsu\\\\data\\\\status.json'\n"}
+{"time": "2026-10-26 04:45:15.950155", "kind": "scan", "text": "scan tot 26-10 04:45 · 0 nieuw, 0 gemist · 13.1s"}
+{"time": "2026-10-26 05:00:13.067407", "kind": "scan", "text": "scan tot 26-10 05:00 · 0 nieuw, 0 gemist · 15.7s"}
+{"time": "2026-10-26 05:15:10.057450", "kind": "scan", "text": "scan tot 26-10 05:15 · 0 nieuw, 0 gemist · 14.7s"}

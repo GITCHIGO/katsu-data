@@ -57,3 +57,9 @@
 {"time": "2026-10-27 13:45:13.933486", "kind": "scan", "text": "scan tot 27-10 13:45 · 0 nieuw, 0 gemist · 20.0s"}
 {"time": "2026-10-27 14:00:15.237893", "kind": "scan", "text": "scan tot 27-10 14:00 · 0 nieuw, 0 gemist · 19.5s"}
 {"time": "2026-10-27 14:15:16.169047", "kind": "scan", "text": "scan tot 27-10 14:15 · 0 nieuw, 0 gemist · 18.7s"}
+{"time": "2026-10-27 14:30:16.202512", "kind": "scan", "text": "scan tot 27-10 14:30 · 0 nieuw, 0 gemist · 17.4s"}
+{"time": "2026-10-27 14:45:14.985036", "kind": "scan", "text": "scan tot 27-10 14:45 · 0 nieuw, 0 gemist · 19.5s"}
+{"time": "2026-10-27 15:00:14.019433", "kind": "scan", "text": "scan tot 27-10 15:00 · 0 nieuw, 0 gemist · 20.3s"}
+{"time": "2026-10-27 15:03:05.381918", "kind": "fout", "text": "fout in de ronde van 15:03:05: PermissionError(13, 'Access is denied')"}
+{"time": "2026-10-27 15:03:05.381918", "kind": "traceback", "text": "Traceback (most recent call last):\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 291, in loop\n    self.once(now)\n    ~~~~~~~~~^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 284, in once\n    self.write_status(now)\n    ~~~~~~~~~~~~~~~~~^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 214, in write_status\n    _write_json(self.p[\"status\"], st)\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\katsu\\code\\katsu\\live\\runner.py\", line 308, in _write_json\n    os.replace(tmp, path)\n    ~~~~~~~~~~^^^^^^^^^^^\nPermissionError: [WinError 5] Access is denied: 'C:\\\\katsu\\\\data\\\\status.json.tmp' -> 'C:\\\\katsu\\\\data\\\\status.json'\n"}
+{"time": "2026-10-27 15:15:15.691315", "kind": "scan", "text": "scan tot 27-10 15:15 · 0 nieuw, 0 gemist · 17.0s"}

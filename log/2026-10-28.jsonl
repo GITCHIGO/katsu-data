@@ -98,3 +98,7 @@
 {"time": "2026-10-28 22:15:18.063180", "kind": "scan", "text": "scan tot 28-10 22:15 · 0 nieuw, 0 gemist · 28.5s"}
 {"time": "2026-10-28 22:16:16.792575", "kind": "info", "text": "KATSU Live gestopt (Ctrl+C). Open orders en trades blijven bij MT5 staan met SL en TP."}
 {"time": "2026-10-28 22:16:38.498028", "kind": "info", "text": "KATSU Live gestart · account 53090711 (demo, EUR) · stand orders · lots {'EURUSD': 0.1, 'GBPUSD': 0.1, 'XAUUSD': 0.02}"}
+{"time": "2026-10-28 22:30:19.030120", "kind": "scan", "text": "scan tot 28-10 22:30 · 0 nieuw, 0 gemist · 16.1s"}
+{"time": "2026-10-28 22:45:18.371492", "kind": "scan", "text": "scan tot 28-10 22:45 · 0 nieuw, 0 gemist · 17.0s"}
+{"time": "2026-10-28 23:00:16.698216", "kind": "scan", "text": "scan tot 28-10 23:00 · 0 nieuw, 0 gemist · 18.5s"}
+{"time": "2026-10-28 23:15:16.483779", "kind": "scan", "text": "scan tot 28-10 23:15 · 0 nieuw, 0 gemist · 16.6s"}

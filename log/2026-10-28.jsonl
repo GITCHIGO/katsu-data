@@ -67,3 +67,7 @@
 {"time": "2026-10-28 14:45:13.179960", "kind": "signaal", "text": "ZONE · GBPUSD · LONG: nieuw signaal (stand loggen: geen order) · limiet 1.32811 · SL 1.32736", "order": "ZONE-GBP-2610281445-1", "discord": true}
 {"time": "2026-10-28 15:00:10.932322", "kind": "scan", "text": "scan tot 28-10 15:00 · 0 nieuw, 0 gemist · 23.5s"}
 {"time": "2026-10-28 15:15:16.209106", "kind": "scan", "text": "scan tot 28-10 15:15 · 0 nieuw, 0 gemist · 21.5s"}
+{"time": "2026-10-28 15:30:10.643891", "kind": "scan", "text": "scan tot 28-10 15:30 · 0 nieuw, 0 gemist · 22.1s"}
+{"time": "2026-10-28 15:45:14.393684", "kind": "scan", "text": "scan tot 28-10 15:45 · 0 nieuw, 0 gemist · 20.8s"}
+{"time": "2026-10-28 16:00:16.914762", "kind": "scan", "text": "scan tot 28-10 16:00 · 0 nieuw, 0 gemist · 24.9s"}
+{"time": "2026-10-28 16:15:13.545039", "kind": "scan", "text": "scan tot 28-10 16:15 · 0 nieuw, 0 gemist · 30.6s"}

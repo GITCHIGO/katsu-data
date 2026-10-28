@@ -1,9 +1,9 @@
 {
- "tijd_server": "2026-10-28 21:17:56.445546",
- "tijd_utc": "2026-10-28T18:17:56+00:00",
+ "tijd_server": "2026-10-28 22:17:58.623901",
+ "tijd_utc": "2026-10-28T19:17:58+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
- "stand": "loggen",
+ "stand": "orders",
  "gepauzeerd": false,
  "account": {
   "login": 53090711,
@@ -13,34 +13,8 @@
   "balance": 5000.0,
   "equity": 5000.0
  },
- "laatste_scan": "2026-10-28 21:15:17.652846",
+ "laatste_scan": null,
  "open_trades": [],
  "open_orders": [],
- "fouten": [
-  {
-   "time": "2026-10-28 00:33:51.299381",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 00:31 server)"
-  },
-  {
-   "time": "2026-10-27 15:03:05.381918",
-   "kind": "fout",
-   "text": "fout in de ronde van 15:03:05: PermissionError(13, 'Access is denied')"
-  },
-  {
-   "time": "2026-10-26 04:33:05.808497",
-   "kind": "fout",
-   "text": "fout in de ronde van 04:33:05: PermissionError(13, 'Access is denied')"
-  },
-  {
-   "time": "2026-10-24 17:45:24.362559",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 17:43 server)"
-  },
-  {
-   "time": "2026-10-24 12:05:50.008385",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 12:03 server)"
-  }
- ]
+ "fouten": []
 }

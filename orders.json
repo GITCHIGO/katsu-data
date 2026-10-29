@@ -209,8 +209,78 @@
      "ZONE · GBPUSD · LONG: nieuw signaal (stand loggen: geen order) · limiet 1.32811 · SL 1.32736"
     ]
    ]
+  },
+  {
+   "id": "T1-GBP-2610290615-1",
+   "key": "Test #1 (FVG)|GBPUSD|2026-10-29 06:15|SHORT|1.332547",
+   "setup": "Test #1 (FVG)",
+   "market": "GBPUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-10-29 06:15:00",
+   "anchor": 1.3336000000000001,
+   "atr": 0.0008535714285714377,
+   "limit": 1.33254674,
+   "tp_plan": 1.33027,
+   "cancel": 1.33027,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "short",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "tegen",
+    "trend_h4": "neutraal",
+    "trend_d1": "neutraal",
+    "sessie": "Azië",
+    "weekdag": "do",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "vóór einde Azië",
+    "kosten": "0,1–0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "geplaatst",
+   "reason": "limiet 1.33255 · SL 1.33372 · TP 1.33027 · 0.1 lot · geldig tot 480 M15-candles",
+   "ticket": 2044103344,
+   "position": null,
+   "sl": 1.33372,
+   "tp": 1.33027,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-10-29 06:15:13.703216",
+     "geplaatst",
+     "T1 · GBPUSD · SHORT: limiet 1.33255 · SL 1.33372 · TP 1.33027 · 0.1 lot · geldig tot 480 M15-candles"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-10-29 05:15:00"
+ "last_scan": "2026-10-29 06:15:00"
 }

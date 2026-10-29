@@ -56,3 +56,9 @@
 {"time": "2026-10-29 12:45:11.855305", "kind": "scan", "text": "scan tot 29-10 12:45 · 0 nieuw, 0 gemist · 17.5s"}
 {"time": "2026-10-29 13:00:10.578854", "kind": "scan", "text": "scan tot 29-10 13:00 · 0 nieuw, 0 gemist · 19.1s"}
 {"time": "2026-10-29 13:15:10.955377", "kind": "scan", "text": "scan tot 29-10 13:15 · 0 nieuw, 0 gemist · 17.1s"}
+{"time": "2026-10-29 13:30:19.254100", "kind": "scan", "text": "scan tot 29-10 13:30 · 0 nieuw, 0 gemist · 17.6s"}
+{"time": "2026-10-29 13:45:17.423179", "kind": "scan", "text": "scan tot 29-10 13:45 · 1 nieuw, 0 gemist · 16.0s"}
+{"time": "2026-10-29 13:45:17.423179", "kind": "geplaatst", "text": "T1 · GBPUSD · LONG: limiet 1.33187 · SL 1.32948 · TP 1.33308 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-GBP-2610291345-1", "discord": true}
+{"time": "2026-10-29 14:00:14.687456", "kind": "scan", "text": "scan tot 29-10 14:00 · 0 nieuw, 0 gemist · 19.0s"}
+{"time": "2026-10-29 14:15:15.281222", "kind": "scan", "text": "scan tot 29-10 14:15 · 1 nieuw, 0 gemist · 19.6s"}
+{"time": "2026-10-29 14:15:15.281222", "kind": "geplaatst", "text": "T1 · GBPUSD · LONG: limiet 1.33232 · SL 1.33177 · TP 1.33308 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-GBP-2610291415-1", "discord": true}

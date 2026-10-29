@@ -33,15 +33,15 @@
    "t_sig": "2026-10-29 06:15",
    "richting": "SHORT",
    "bt_fill": 1.33254674,
-   "bt_uit": "loopt",
-   "bt_R": null,
+   "bt_uit": "TP",
+   "bt_R": 1.8723386120721468,
    "live_fill": 1.33258,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "TP",
+   "live_R": 1.9481409001956946,
    "slippage_pips": -0.3326000000014595,
-   "commissie": null,
-   "swap": null,
-   "status": "gelijk (loopt)"
+   "commissie": -0.66,
+   "swap": 0.0,
+   "status": "gelijk"
   }
  ],
  "overeenkomst": 0.5,

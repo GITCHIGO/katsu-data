@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 3,
-  "live": 3,
-  "gelijk": 3,
+  "backtest": 4,
+  "live": 4,
+  "gelijk": 4,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -25,9 +25,26 @@
    "commissie": null,
    "swap": null,
    "status": "alleen backtest"
+  },
+  {
+   "key": "Test #1 (FVG)|GBPUSD|2026-10-29 06:15|SHORT|1.332547",
+   "setup": "T1",
+   "markt": "GBPUSD",
+   "t_sig": "2026-10-29 06:15",
+   "richting": "SHORT",
+   "bt_fill": 1.33254674,
+   "bt_uit": "loopt",
+   "bt_R": null,
+   "live_fill": 1.33258,
+   "live_uit": "loopt",
+   "live_R": null,
+   "slippage_pips": -0.3326000000014595,
+   "commissie": null,
+   "swap": null,
+   "status": "gelijk (loopt)"
   }
  ],
- "overeenkomst": 0.0,
- "n_trades": 1,
- "n_gelijk": 0
+ "overeenkomst": 0.5,
+ "n_trades": 2,
+ "n_gelijk": 1
 }

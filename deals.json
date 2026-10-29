@@ -1,4 +1,39 @@
 {
  "sinds": "2026-10-21 08:30:00",
- "deals": []
+ "deals": [
+  {
+   "ticket": 1642916717,
+   "order": 2044103344,
+   "positie": 2044103344,
+   "tijd": "2026-10-29 06:27:49",
+   "symbool": "GBPUSD",
+   "type": 1,
+   "entry": 0,
+   "volume": 0.1,
+   "prijs": 1.33258,
+   "winst": 0.0,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710101,
+   "commentaar": "T1-GBP-2610290615-1",
+   "reden": 3
+  },
+  {
+   "ticket": 1643567006,
+   "order": 2044923100,
+   "positie": 2044103344,
+   "tijd": "2026-10-29 12:20:35",
+   "symbool": "GBPUSD",
+   "type": 0,
+   "entry": 1,
+   "volume": 0.1,
+   "prijs": 1.33029,
+   "winst": 20.57,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710101,
+   "commentaar": "[tp 1.33030]",
+   "reden": 5
+  }
+ ]
 }

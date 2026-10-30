@@ -439,8 +439,78 @@
      "T1 · GBPUSD · LONG: TP-niveau eerst geraakt vóór de vulling"
     ]
    ]
+  },
+  {
+   "id": "ZONE-GBP-2610301700-1",
+   "key": "Zone GBPUSD|GBPUSD|2026-10-30 17:00|SHORT|1.342590",
+   "setup": "Zone GBPUSD",
+   "market": "GBPUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-10-30 17:00:00",
+   "anchor": 1.34338,
+   "atr": 0.0008764285714286034,
+   "limit": 1.34259,
+   "tp_plan": null,
+   "cancel": null,
+   "max_rr": 2.0,
+   "valid_until": "2026-11-06 17:00:00",
+   "valid_bars": null,
+   "close_eod": false,
+   "tp_mode": "zone_bij_vulling",
+   "leg_high": 1.338,
+   "lot": 0.1,
+   "magic": 710103,
+   "features": {
+    "soort": "Zone",
+    "richting": "short",
+    "sweep_dag": "ja",
+    "fvg_nummer": "n.v.t.",
+    "trend_m15": "neutraal",
+    "trend_h1": "tegen",
+    "trend_h4": "neutraal",
+    "trend_d1": "neutraal",
+    "sessie": "overlap",
+    "weekdag": "vr",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "M15",
+    "zone_entry": "rand",
+    "sweep_azie": "ja",
+    "kosten": ">0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "geplaatst",
+   "reason": "limiet 1.34259 · SL 1.3435 · TP 1.34077 · 0.1 lot · geldig tot 2026-11-06 17:00:00",
+   "ticket": 2049632798,
+   "position": null,
+   "sl": 1.3435,
+   "tp": 1.34077,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": "2026-10-30 17:00:00",
+   "history": [
+    [
+     "2026-10-30 17:00:10.484312",
+     "geplaatst",
+     "ZONE · GBPUSD · SHORT: limiet 1.34259 · SL 1.3435 · TP 1.34077 · 0.1 lot · geldig tot 2026-11-06 17:00:00"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-10-30 16:15:00"
+ "last_scan": "2026-10-30 17:15:00"
 }

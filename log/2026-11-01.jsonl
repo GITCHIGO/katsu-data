@@ -5,3 +5,7 @@
 {"time": "2026-11-01 01:00:01.326941", "kind": "overzicht", "text": "Vandaag: 0 trades · netto +0.00 EUR · +0.00R | Deze maand: 1 trades · winrate 100% · netto +19.91 EUR · +1.95R | Open: 0 trades · 1 orders | Controle backtest ↔ MT5: 50% (1/2)"}
 {"time": "2026-11-01 01:00:11.309204", "kind": "scan", "text": "scan tot 01-11 01:00 · 0 nieuw, 0 gemist · 13.3s"}
 {"time": "2026-11-01 01:15:15.852711", "kind": "scan", "text": "scan tot 01-11 01:15 · 0 nieuw, 0 gemist · 12.9s"}
+{"time": "2026-11-01 01:30:19.990773", "kind": "scan", "text": "scan tot 01-11 01:30 · 0 nieuw, 0 gemist · 12.1s"}
+{"time": "2026-11-01 01:45:13.293509", "kind": "scan", "text": "scan tot 01-11 01:45 · 0 nieuw, 0 gemist · 13.2s"}
+{"time": "2026-11-01 02:00:13.472331", "kind": "scan", "text": "scan tot 01-11 02:00 · 0 nieuw, 0 gemist · 18.3s"}
+{"time": "2026-11-01 02:15:13.093827", "kind": "scan", "text": "scan tot 01-11 02:15 · 0 nieuw, 0 gemist · 15.1s"}

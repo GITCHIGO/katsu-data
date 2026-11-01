@@ -101,3 +101,5 @@
 {"time": "2026-11-01 23:12:58.511281", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
 {"time": "2026-11-01 23:14:28.537281", "kind": "info", "text": "verbinding met MT5 terug na 1.5 min"}
 {"time": "2026-11-01 23:15:18.543918", "kind": "scan", "text": "scan tot 01-11 23:15 · 0 nieuw, 0 gemist · 14.3s"}
+{"time": "2026-11-01 23:30:14.145199", "kind": "scan", "text": "scan tot 01-11 23:30 · 0 nieuw, 0 gemist · 12.9s"}
+{"time": "2026-11-01 23:45:14.146149", "kind": "scan", "text": "scan tot 01-11 23:45 · 0 nieuw, 0 gemist · 13.5s"}

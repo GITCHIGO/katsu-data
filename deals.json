@@ -34,6 +34,40 @@
    "magic": 710101,
    "commentaar": "[tp 1.33030]",
    "reden": 5
+  },
+  {
+   "ticket": 1650410540,
+   "order": 2049632798,
+   "positie": 2049632798,
+   "tijd": "2026-11-02 10:35:44",
+   "symbool": "GBPUSD",
+   "type": 1,
+   "entry": 0,
+   "volume": 0.1,
+   "prijs": 1.3425799999999999,
+   "winst": 0.0,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710103,
+   "commentaar": "ZONE-GBP-2610301700-1",
+   "reden": 3
+  },
+  {
+   "ticket": 1650438818,
+   "order": 2053153396,
+   "positie": 2049632798,
+   "tijd": "2026-11-02 10:45:37",
+   "symbool": "GBPUSD",
+   "type": 0,
+   "entry": 1,
+   "volume": 0.1,
+   "prijs": 1.34353,
+   "winst": -8.47,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710103,
+   "commentaar": "[sl 1.34350]",
+   "reden": 4
   }
  ]
 }

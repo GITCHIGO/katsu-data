@@ -42,9 +42,26 @@
    "commissie": -0.66,
    "swap": 0.0,
    "status": "gelijk"
+  },
+  {
+   "key": "Zone GBPUSD|GBPUSD|2026-10-30 17:00|SHORT|1.342590",
+   "setup": "ZONE",
+   "markt": "GBPUSD",
+   "t_sig": "2026-10-30 17:00",
+   "richting": "SHORT",
+   "bt_fill": 1.34259,
+   "bt_uit": "SL",
+   "bt_R": -1.1208791208790974,
+   "live_fill": 1.3425799999999999,
+   "live_uit": "SL",
+   "live_R": -1.1120584652862362,
+   "slippage_pips": 0.10000000000065512,
+   "commissie": -0.66,
+   "swap": 0.0,
+   "status": "gelijk"
   }
  ],
- "overeenkomst": 0.5,
- "n_trades": 2,
- "n_gelijk": 1
+ "overeenkomst": 0.6666666666666666,
+ "n_trades": 3,
+ "n_gelijk": 2
 }

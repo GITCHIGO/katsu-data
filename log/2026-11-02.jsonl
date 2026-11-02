@@ -41,3 +41,9 @@
 {"time": "2026-11-02 09:45:13.790819", "kind": "scan", "text": "scan tot 02-11 09:45 · 0 nieuw, 0 gemist · 19.0s"}
 {"time": "2026-11-02 10:00:17.935172", "kind": "scan", "text": "scan tot 02-11 10:00 · 0 nieuw, 0 gemist · 17.5s"}
 {"time": "2026-11-02 10:15:16.932663", "kind": "scan", "text": "scan tot 02-11 10:15 · 0 nieuw, 0 gemist · 14.7s"}
+{"time": "2026-11-02 10:30:12.965014", "kind": "scan", "text": "scan tot 02-11 10:30 · 0 nieuw, 0 gemist · 16.3s"}
+{"time": "2026-11-02 10:35:50.447227", "kind": "gevuld", "text": "ZONE · GBPUSD · SHORT: gevuld op 1.34258 · SL 1.3435 · TP 1.34074", "order": "ZONE-GBP-2610301700-1", "discord": true}
+{"time": "2026-11-02 10:45:10.655521", "kind": "scan", "text": "scan tot 02-11 10:45 · 0 nieuw, 0 gemist · 17.7s"}
+{"time": "2026-11-02 10:45:39.350317", "kind": "gesloten", "text": "ZONE · GBPUSD · SHORT: gesloten (SL) op 1.34353 · -1.11R · -9.5 pips · -9.13", "order": "ZONE-GBP-2610301700-1", "discord": true}
+{"time": "2026-11-02 11:00:19.618851", "kind": "scan", "text": "scan tot 02-11 11:00 · 0 nieuw, 0 gemist · 16.1s"}
+{"time": "2026-11-02 11:15:17.119955", "kind": "scan", "text": "scan tot 02-11 11:15 · 0 nieuw, 0 gemist · 14.6s"}

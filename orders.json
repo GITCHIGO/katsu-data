@@ -519,8 +519,78 @@
      "ZONE · GBPUSD · SHORT: gesloten (SL) op 1.34353 · -1.11R · -9.5 pips · -9.13"
     ]
    ]
+  },
+  {
+   "id": "ZONE-GBP-2611022030-1",
+   "key": "Zone GBPUSD|GBPUSD|2026-11-02 20:30|SHORT|1.341930",
+   "setup": "Zone GBPUSD",
+   "market": "GBPUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-11-02 20:30:00",
+   "anchor": 1.34238,
+   "atr": 0.0006864285714285957,
+   "limit": 1.34193,
+   "tp_plan": null,
+   "cancel": null,
+   "max_rr": 2.0,
+   "valid_until": "2026-11-09 20:30:00",
+   "valid_bars": null,
+   "close_eod": false,
+   "tp_mode": "zone_bij_vulling",
+   "leg_high": 1.34061,
+   "lot": 0.1,
+   "magic": 710103,
+   "features": {
+    "soort": "Zone",
+    "richting": "short",
+    "sweep_dag": "ja",
+    "fvg_nummer": "n.v.t.",
+    "trend_m15": "neutraal",
+    "trend_h1": "neutraal",
+    "trend_h4": "tegen",
+    "trend_d1": "neutraal",
+    "sessie": "New York",
+    "weekdag": "ma",
+    "volatiliteit": "normaal",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "M15",
+    "zone_entry": "rand",
+    "sweep_azie": "ja",
+    "kosten": ">0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "geplaatst",
+   "reason": "limiet 1.34193 · SL 1.34248 · TP 1.34083 · 0.1 lot · geldig tot 2026-11-09 20:30:00",
+   "ticket": 2054857227,
+   "position": null,
+   "sl": 1.34248,
+   "tp": 1.34083,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": "2026-11-02 21:00:00",
+   "history": [
+    [
+     "2026-11-02 20:30:17.124033",
+     "geplaatst",
+     "ZONE · GBPUSD · SHORT: limiet 1.34193 · SL 1.34248 · TP 1.34083 · 0.1 lot · geldig tot 2026-11-09 20:30:00"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-02 20:15:00"
+ "last_scan": "2026-11-02 21:15:00"
 }

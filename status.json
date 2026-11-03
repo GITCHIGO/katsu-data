@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-03 22:18:01.559409",
- "tijd_utc": "2026-11-03T20:18:01+00:00",
+ "tijd_server": "2026-11-03 23:17:58.385762",
+ "tijd_utc": "2026-11-03T21:17:58+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,7 +13,7 @@
   "balance": 5010.78,
   "equity": 5010.78
  },
- "laatste_scan": "2026-11-03 22:15:18.779896",
+ "laatste_scan": "2026-11-03 23:15:13.382938",
  "open_trades": [
   "T1-XAU-2611031600-1",
   "T1-GBP-2611031745-1"

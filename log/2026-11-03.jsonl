@@ -77,3 +77,11 @@
 {"time": "2026-11-03 16:45:15.563142", "kind": "scan", "text": "scan tot 03-11 16:45 · 0 nieuw, 0 gemist · 17.6s"}
 {"time": "2026-11-03 17:00:12.346432", "kind": "scan", "text": "scan tot 03-11 17:00 · 0 nieuw, 0 gemist · 20.8s"}
 {"time": "2026-11-03 17:15:14.357358", "kind": "scan", "text": "scan tot 03-11 17:15 · 0 nieuw, 0 gemist · 16.8s"}
+{"time": "2026-11-03 17:30:12.591155", "kind": "scan", "text": "scan tot 03-11 17:30 · 1 nieuw, 0 gemist · 16.2s"}
+{"time": "2026-11-03 17:30:12.591155", "kind": "geplaatst", "text": "T1 · GBPUSD · SHORT: limiet 1.34206 · SL 1.34337 · TP 1.34037 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-GBP-2611031730-1", "discord": true}
+{"time": "2026-11-03 17:45:10.286098", "kind": "scan", "text": "scan tot 03-11 17:45 · 1 nieuw, 0 gemist · 15.0s"}
+{"time": "2026-11-03 17:45:10.286098", "kind": "geplaatst", "text": "T1 · GBPUSD · SHORT: limiet 1.34144 · SL 1.34337 · TP 1.34037 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-GBP-2611031745-1", "discord": true}
+{"time": "2026-11-03 17:52:26.461951", "kind": "gevuld", "text": "T1 · GBPUSD · SHORT: gevuld op 1.34143 · SL 1.34337 · TP 1.34037", "order": "T1-GBP-2611031745-1", "discord": true}
+{"time": "2026-11-03 17:52:26.461951", "kind": "wacht", "text": "T1 · GBPUSD · SHORT: geparkeerd: er loopt nu een trade van deze setup op dit pair", "order": "T1-GBP-2611031730-1", "discord": true}
+{"time": "2026-11-03 18:00:16.613870", "kind": "scan", "text": "scan tot 03-11 18:00 · 0 nieuw, 0 gemist · 17.0s"}
+{"time": "2026-11-03 18:15:11.512600", "kind": "scan", "text": "scan tot 03-11 18:15 · 0 nieuw, 0 gemist · 15.1s"}

@@ -1,3 +1,9 @@
 {"time": "2026-11-04 00:00:27.642706", "kind": "overzicht", "text": "Vandaag: 1 trades · netto -5.75 EUR · -1.24R | Deze maand: 2 trades · winrate 0% · netto -14.88 EUR · -2.35R | Open: 2 trades · 0 orders | Controle backtest ↔ MT5: 83% (5/6)"}
 {"time": "2026-11-04 00:00:28.646905", "kind": "scan", "text": "scan tot 04-11 00:00 · 0 nieuw, 0 gemist · 13.4s"}
 {"time": "2026-11-04 00:15:13.336049", "kind": "scan", "text": "scan tot 04-11 00:15 · 0 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-11-04 00:30:16.911846", "kind": "scan", "text": "scan tot 04-11 00:30 · 0 nieuw, 0 gemist · 12.4s"}
+{"time": "2026-11-04 00:30:50.362290", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-04 00:31:50.370250", "kind": "info", "text": "verbinding met MT5 terug na 1.0 min"}
+{"time": "2026-11-04 00:45:10.655103", "kind": "scan", "text": "scan tot 04-11 00:45 · 0 nieuw, 0 gemist · 12.2s"}
+{"time": "2026-11-04 01:00:18.356691", "kind": "scan", "text": "scan tot 04-11 01:00 · 0 nieuw, 0 gemist · 16.1s"}
+{"time": "2026-11-04 01:15:15.695378", "kind": "scan", "text": "scan tot 04-11 01:15 · 0 nieuw, 0 gemist · 12.0s"}

@@ -63,3 +63,13 @@
 {"time": "2026-11-03 14:45:12.197984", "kind": "scan", "text": "scan tot 03-11 14:45 · 0 nieuw, 0 gemist · 17.2s"}
 {"time": "2026-11-03 15:00:10.789190", "kind": "scan", "text": "scan tot 03-11 15:00 · 0 nieuw, 0 gemist · 19.5s"}
 {"time": "2026-11-03 15:15:11.528610", "kind": "scan", "text": "scan tot 03-11 15:15 · 0 nieuw, 0 gemist · 16.5s"}
+{"time": "2026-11-03 15:30:19.338908", "kind": "scan", "text": "scan tot 03-11 15:30 · 0 nieuw, 0 gemist · 18.6s"}
+{"time": "2026-11-03 15:31:38.900893", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-03 15:31:58.903501", "kind": "info", "text": "verbinding met MT5 terug na 0.3 min"}
+{"time": "2026-11-03 15:45:19.235254", "kind": "scan", "text": "scan tot 03-11 15:45 · 1 nieuw, 0 gemist · 17.3s"}
+{"time": "2026-11-03 15:45:19.235254", "kind": "geplaatst", "text": "T1 · XAUUSD · LONG: limiet 3946.32 · SL 3897.95 · TP 3970.37 · 0.02 lot · geldig tot 480 M15-candles", "order": "T1-XAU-2611031545-1", "discord": true}
+{"time": "2026-11-03 16:00:17.978611", "kind": "scan", "text": "scan tot 03-11 16:00 · 1 nieuw, 0 gemist · 19.9s"}
+{"time": "2026-11-03 16:00:17.978611", "kind": "geplaatst", "text": "T1 · XAUUSD · LONG: limiet 3959.1 · SL 3897.91 · TP 3999.3 · 0.02 lot · geldig tot 480 M15-candles", "order": "T1-XAU-2611031600-1", "discord": true}
+{"time": "2026-11-03 16:00:17.978611", "kind": "geannuleerd", "text": "T1 · XAUUSD · LONG: TP-niveau eerst geraakt (candle 03-11 15:45)", "order": "T1-XAU-2611031545-1", "discord": true}
+{"time": "2026-11-03 16:00:48.981913", "kind": "gevuld", "text": "T1 · XAUUSD · LONG: gevuld op 3958.9 · SL 3897.91 · TP 3999.3", "order": "T1-XAU-2611031600-1", "discord": true}
+{"time": "2026-11-03 16:15:19.306457", "kind": "scan", "text": "scan tot 03-11 16:15 · 0 nieuw, 0 gemist · 17.5s"}

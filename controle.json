@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 8,
-  "live": 8,
-  "gelijk": 8,
+  "backtest": 10,
+  "live": 10,
+  "gelijk": 10,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -76,9 +76,26 @@
    "commissie": -0.66,
    "swap": 0.0,
    "status": "gelijk"
+  },
+  {
+   "key": "Test #1 (FVG)|XAUUSD|2026-11-03 16:00|LONG|3959.095820",
+   "setup": "T1",
+   "markt": "XAUUSD",
+   "t_sig": "2026-11-03 16:00",
+   "richting": "LONG",
+   "bt_fill": 3959.09582,
+   "bt_uit": "loopt",
+   "bt_R": null,
+   "live_fill": 3958.9,
+   "live_uit": "loopt",
+   "live_R": null,
+   "slippage_pips": -1.958199999999124,
+   "commissie": null,
+   "swap": null,
+   "status": "gelijk (loopt)"
   }
  ],
- "overeenkomst": 0.75,
- "n_trades": 4,
- "n_gelijk": 3
+ "overeenkomst": 0.8,
+ "n_trades": 5,
+ "n_gelijk": 4
 }

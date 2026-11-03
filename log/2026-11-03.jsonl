@@ -90,3 +90,7 @@
 {"time": "2026-11-03 19:00:19.937713", "kind": "scan", "text": "scan tot 03-11 19:00 · 0 nieuw, 0 gemist · 13.6s"}
 {"time": "2026-11-03 19:03:40.068344", "kind": "geblokkeerd", "text": "T1 · GBPUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-GBP-2611031730-1", "discord": true}
 {"time": "2026-11-03 19:15:10.239830", "kind": "scan", "text": "scan tot 03-11 19:15 · 0 nieuw, 0 gemist · 13.1s"}
+{"time": "2026-11-03 19:30:14.750621", "kind": "scan", "text": "scan tot 03-11 19:30 · 0 nieuw, 0 gemist · 12.2s"}
+{"time": "2026-11-03 19:45:18.199537", "kind": "scan", "text": "scan tot 03-11 19:45 · 0 nieuw, 0 gemist · 12.2s"}
+{"time": "2026-11-03 20:00:11.652895", "kind": "scan", "text": "scan tot 03-11 20:00 · 0 nieuw, 0 gemist · 15.1s"}
+{"time": "2026-11-03 20:15:17.981201", "kind": "scan", "text": "scan tot 03-11 20:15 · 0 nieuw, 0 gemist · 12.3s"}

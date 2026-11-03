@@ -790,8 +790,8 @@
     "kosten": "0,1–0,2R",
     "nfp_dag": "nee"
    },
-   "state": "wacht",
-   "reason": "geparkeerd: er loopt nu een trade van deze setup op dit pair",
+   "state": "geblokkeerd",
+   "reason": "koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)",
    "ticket": null,
    "position": null,
    "sl": 1.34337,
@@ -811,7 +811,7 @@
    "pips": null,
    "parked": true,
    "close_why": null,
-   "checked_bar": "2026-11-03 18:00:00",
+   "checked_bar": "2026-11-03 18:45:00",
    "history": [
     [
      "2026-11-03 17:30:12.591155",
@@ -822,6 +822,11 @@
      "2026-11-03 17:52:26.461951",
      "wacht",
      "T1 · GBPUSD · SHORT: geparkeerd: er loopt nu een trade van deze setup op dit pair"
+    ],
+    [
+     "2026-11-03 19:03:40.068344",
+     "geblokkeerd",
+     "T1 · GBPUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)"
     ]
    ]
   },
@@ -902,5 +907,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-03 18:15:00"
+ "last_scan": "2026-11-03 19:15:00"
 }

@@ -7,3 +7,8 @@
 {"time": "2026-11-04 00:45:10.655103", "kind": "scan", "text": "scan tot 04-11 00:45 · 0 nieuw, 0 gemist · 12.2s"}
 {"time": "2026-11-04 01:00:18.356691", "kind": "scan", "text": "scan tot 04-11 01:00 · 0 nieuw, 0 gemist · 16.1s"}
 {"time": "2026-11-04 01:15:15.695378", "kind": "scan", "text": "scan tot 04-11 01:15 · 0 nieuw, 0 gemist · 12.0s"}
+{"time": "2026-11-04 01:30:18.997521", "kind": "scan", "text": "scan tot 04-11 01:30 · 0 nieuw, 0 gemist · 12.1s"}
+{"time": "2026-11-04 01:45:12.368106", "kind": "scan", "text": "scan tot 04-11 01:45 · 0 nieuw, 0 gemist · 14.2s"}
+{"time": "2026-11-04 01:51:04.603663", "kind": "gesloten", "text": "T1 · GBPUSD · SHORT: gesloten (SL) op 1.3434 · -1.07R · -19.7 pips · -18.61", "order": "T1-GBP-2611031745-1", "discord": true}
+{"time": "2026-11-04 02:00:14.818252", "kind": "scan", "text": "scan tot 04-11 02:00 · 0 nieuw, 0 gemist · 20.1s"}
+{"time": "2026-11-04 02:15:16.306797", "kind": "scan", "text": "scan tot 04-11 02:15 · 0 nieuw, 0 gemist · 12.8s"}

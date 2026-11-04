@@ -43,3 +43,7 @@
 {"time": "2026-11-04 06:07:29.003868", "kind": "geblokkeerd", "text": "T1 · XAUUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-XAU-2611040430-1", "discord": true}
 {"time": "2026-11-04 06:12:49.086351", "kind": "geblokkeerd", "text": "T1 · XAUUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-XAU-2611040415-1", "discord": true}
 {"time": "2026-11-04 06:15:19.110071", "kind": "scan", "text": "scan tot 04-11 06:15 · 0 nieuw, 0 gemist · 11.6s"}
+{"time": "2026-11-04 06:30:17.066378", "kind": "scan", "text": "scan tot 04-11 06:30 · 0 nieuw, 0 gemist · 12.1s"}
+{"time": "2026-11-04 06:45:10.520894", "kind": "scan", "text": "scan tot 04-11 06:45 · 0 nieuw, 0 gemist · 12.6s"}
+{"time": "2026-11-04 07:00:14.522713", "kind": "scan", "text": "scan tot 04-11 07:00 · 0 nieuw, 0 gemist · 15.5s"}
+{"time": "2026-11-04 07:15:11.329166", "kind": "scan", "text": "scan tot 04-11 07:15 · 0 nieuw, 0 gemist · 12.0s"}

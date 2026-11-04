@@ -36,3 +36,10 @@
 {"time": "2026-11-04 05:00:17.506458", "kind": "wacht", "text": "T1 · EURUSD · LONG: signaal geparkeerd: er loopt al een trade van deze setup op dit pair · limiet 1.12495 · SL 1.12255", "order": "T1-EUR-2611040500-1", "discord": true}
 {"time": "2026-11-04 05:04:01.056668", "kind": "geblokkeerd", "text": "T1 · EURUSD · LONG: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-EUR-2611040500-1", "discord": true}
 {"time": "2026-11-04 05:15:11.213932", "kind": "scan", "text": "scan tot 04-11 05:15 · 0 nieuw, 0 gemist · 13.2s"}
+{"time": "2026-11-04 05:18:25.534723", "kind": "geblokkeerd", "text": "T1 · EURUSD · LONG: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-EUR-2611040445-1", "discord": true}
+{"time": "2026-11-04 05:30:15.720606", "kind": "scan", "text": "scan tot 04-11 05:30 · 0 nieuw, 0 gemist · 12.9s"}
+{"time": "2026-11-04 05:45:19.883535", "kind": "scan", "text": "scan tot 04-11 05:45 · 0 nieuw, 0 gemist · 12.2s"}
+{"time": "2026-11-04 06:00:13.357902", "kind": "scan", "text": "scan tot 04-11 06:00 · 0 nieuw, 0 gemist · 14.6s"}
+{"time": "2026-11-04 06:07:29.003868", "kind": "geblokkeerd", "text": "T1 · XAUUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-XAU-2611040430-1", "discord": true}
+{"time": "2026-11-04 06:12:49.086351", "kind": "geblokkeerd", "text": "T1 · XAUUSD · SHORT: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)", "order": "T1-XAU-2611040415-1", "discord": true}
+{"time": "2026-11-04 06:15:19.110071", "kind": "scan", "text": "scan tot 04-11 06:15 · 0 nieuw, 0 gemist · 11.6s"}

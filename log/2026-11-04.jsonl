@@ -12,3 +12,10 @@
 {"time": "2026-11-04 01:51:04.603663", "kind": "gesloten", "text": "T1 · GBPUSD · SHORT: gesloten (SL) op 1.3434 · -1.07R · -19.7 pips · -18.61", "order": "T1-GBP-2611031745-1", "discord": true}
 {"time": "2026-11-04 02:00:14.818252", "kind": "scan", "text": "scan tot 04-11 02:00 · 0 nieuw, 0 gemist · 20.1s"}
 {"time": "2026-11-04 02:15:16.306797", "kind": "scan", "text": "scan tot 04-11 02:15 · 0 nieuw, 0 gemist · 12.8s"}
+{"time": "2026-11-04 02:30:10.458485", "kind": "scan", "text": "scan tot 04-11 02:30 · 0 nieuw, 0 gemist · 13.0s"}
+{"time": "2026-11-04 02:45:14.755868", "kind": "scan", "text": "scan tot 04-11 02:45 · 1 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-11-04 02:45:14.755868", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.12118 · SL 1.11982 · TP 1.12295 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611040245-1", "discord": true}
+{"time": "2026-11-04 02:52:05.336557", "kind": "gevuld", "text": "T1 · EURUSD · LONG: gevuld op 1.12119 · SL 1.11982 · TP 1.12295", "order": "T1-EUR-2611040245-1", "discord": true}
+{"time": "2026-11-04 03:00:15.434992", "kind": "scan", "text": "scan tot 04-11 03:00 · 0 nieuw, 0 gemist · 19.9s"}
+{"time": "2026-11-04 03:05:06.532281", "kind": "gesloten", "text": "T1 · EURUSD · LONG: gesloten (TP) op 1.12294 · +1.22R · +17.5 pips · +14.92", "order": "T1-EUR-2611040245-1", "discord": true}
+{"time": "2026-11-04 03:15:16.788019", "kind": "scan", "text": "scan tot 04-11 03:15 · 0 nieuw, 0 gemist · 15.3s"}

@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 12,
-  "live": 12,
-  "gelijk": 12,
+  "backtest": 13,
+  "live": 13,
+  "gelijk": 13,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -101,15 +101,15 @@
    "t_sig": "2026-11-03 17:45",
    "richting": "SHORT",
    "bt_fill": 1.3414422400000001,
-   "bt_uit": "loopt",
-   "bt_R": null,
+   "bt_uit": "SL",
+   "bt_R": -1.0985599867203337,
    "live_fill": 1.34143,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "SL",
+   "live_R": -1.0738603577611079,
    "slippage_pips": 0.12240000000218743,
-   "commissie": null,
-   "swap": null,
-   "status": "gelijk (loopt)"
+   "commissie": -0.66,
+   "swap": -0.37,
+   "status": "gelijk"
   }
  ],
  "overeenkomst": 0.8333333333333334,

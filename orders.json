@@ -909,8 +909,88 @@
      "T1 · GBPUSD · SHORT: gesloten (SL) op 1.3434 · -1.07R · -19.7 pips · -18.61"
     ]
    ]
+  },
+  {
+   "id": "T1-EUR-2611040245-1",
+   "key": "Test #1 (FVG)|EURUSD|2026-11-04 02:45|LONG|1.121184",
+   "setup": "Test #1 (FVG)",
+   "market": "EURUSD",
+   "direction": "LONG",
+   "kind": "limit",
+   "t_sig": "2026-11-04 02:45:00",
+   "anchor": 1.1199,
+   "atr": 0.0006950000000000329,
+   "limit": 1.1211837199999999,
+   "tp_plan": 1.12295,
+   "cancel": 1.12295,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "long",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "tegen",
+    "trend_h4": "neutraal",
+    "trend_d1": "tegen",
+    "sessie": "Azië",
+    "weekdag": "wo",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "vóór einde Azië",
+    "kosten": "0,1–0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "gesloten",
+   "reason": "gesloten (TP) op 1.12294 · +1.22R · +17.5 pips · +14.92",
+   "ticket": 2058689408,
+   "position": 2058689408,
+   "sl": 1.11982,
+   "tp": 1.12295,
+   "fill_px": 1.12119,
+   "fill_time": "2026-11-04 02:52:02",
+   "exit_px": 1.12294,
+   "exit_time": "2026-11-04 03:05:02",
+   "exit_reason": "TP",
+   "risk_px": 0.0013699999999998713,
+   "risk_money": 12.23,
+   "profit": 15.58,
+   "commission": -0.66,
+   "swap": 0.0,
+   "net": 14.92,
+   "r_net": 1.2199509403107114,
+   "pips": 17.500000000001403,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-11-04 02:45:14.755868",
+     "geplaatst",
+     "T1 · EURUSD · LONG: limiet 1.12118 · SL 1.11982 · TP 1.12295 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-04 02:52:05.336557",
+     "gevuld",
+     "T1 · EURUSD · LONG: gevuld op 1.12119 · SL 1.11982 · TP 1.12295"
+    ],
+    [
+     "2026-11-04 03:05:06.532281",
+     "gesloten",
+     "T1 · EURUSD · LONG: gesloten (TP) op 1.12294 · +1.22R · +17.5 pips · +14.92"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-04 02:15:00"
+ "last_scan": "2026-11-04 03:15:00"
 }

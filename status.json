@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-04 07:18:04.418774",
- "tijd_utc": "2026-11-04T05:18:04+00:00",
+ "tijd_server": "2026-11-04 08:17:55.809601",
+ "tijd_utc": "2026-11-04T06:17:55+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,9 +13,8 @@
   "balance": 5004.63,
   "equity": 4951.13
  },
- "laatste_scan": "2026-11-04 07:15:11.329166",
+ "laatste_scan": "2026-11-04 08:15:12.843844",
  "open_trades": [
-  "T1-XAU-2611031600-1",
   "T1-EUR-2611040345-1"
  ],
  "open_orders": [],

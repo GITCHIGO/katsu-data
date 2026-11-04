@@ -47,3 +47,8 @@
 {"time": "2026-11-04 06:45:10.520894", "kind": "scan", "text": "scan tot 04-11 06:45 · 0 nieuw, 0 gemist · 12.6s"}
 {"time": "2026-11-04 07:00:14.522713", "kind": "scan", "text": "scan tot 04-11 07:00 · 0 nieuw, 0 gemist · 15.5s"}
 {"time": "2026-11-04 07:15:11.329166", "kind": "scan", "text": "scan tot 04-11 07:15 · 0 nieuw, 0 gemist · 12.0s"}
+{"time": "2026-11-04 07:30:14.581987", "kind": "scan", "text": "scan tot 04-11 07:30 · 0 nieuw, 0 gemist · 13.8s"}
+{"time": "2026-11-04 07:45:18.239399", "kind": "scan", "text": "scan tot 04-11 07:45 · 0 nieuw, 0 gemist · 12.8s"}
+{"time": "2026-11-04 07:51:52.204506", "kind": "gesloten", "text": "T1 · XAUUSD · LONG: gesloten (TP) op 3999.37 · +0.65R · +404.7 pips · +70.94", "order": "T1-XAU-2611031600-1", "discord": true}
+{"time": "2026-11-04 08:00:12.304274", "kind": "scan", "text": "scan tot 04-11 08:00 · 0 nieuw, 0 gemist · 19.1s"}
+{"time": "2026-11-04 08:15:12.843844", "kind": "scan", "text": "scan tot 04-11 08:15 · 0 nieuw, 0 gemist · 11.9s"}

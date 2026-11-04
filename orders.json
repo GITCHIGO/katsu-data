@@ -1110,25 +1110,25 @@
     "kosten": "<0,1R",
     "nfp_dag": "nee"
    },
-   "state": "gevuld",
-   "reason": "limiet 1.1241 · SL 1.12105 · TP 1.12616 · 0.1 lot · geldig tot 480 M15-candles",
+   "state": "gesloten",
+   "reason": "gesloten (TP) op 1.12617 · +0.67R · +21.1 pips · +18.08",
    "ticket": 2058974712,
    "position": 2058974712,
    "sl": 1.12105,
    "tp": 1.12616,
    "fill_px": 1.12406,
    "fill_time": "2026-11-04 03:51:10",
-   "exit_px": null,
-   "exit_time": null,
-   "exit_reason": null,
+   "exit_px": 1.1261700000000001,
+   "exit_time": "2026-11-04 11:39:16",
+   "exit_reason": "TP",
    "risk_px": 0.003009999999999957,
    "risk_money": 26.85,
-   "profit": null,
-   "commission": null,
-   "swap": null,
-   "net": null,
-   "r_net": null,
-   "pips": null,
+   "profit": 18.74,
+   "commission": -0.66,
+   "swap": 0.0,
+   "net": 18.08,
+   "r_net": 0.6733705772811918,
+   "pips": 21.100000000000563,
    "parked": false,
    "close_why": null,
    "checked_bar": null,
@@ -1142,6 +1142,11 @@
      "2026-11-04 03:51:19.372506",
      "gevuld",
      "T1 · EURUSD · LONG: gevuld op 1.12406 · SL 1.12105 · TP 1.12616"
+    ],
+    [
+     "2026-11-04 11:39:25.556043",
+     "gesloten",
+     "T1 · EURUSD · LONG: gesloten (TP) op 1.12617 · +0.67R · +21.1 pips · +18.08"
     ]
    ]
   },
@@ -1447,5 +1452,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-04 11:15:00"
+ "last_scan": "2026-11-04 12:15:00"
 }

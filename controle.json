@@ -138,11 +138,11 @@
    "bt_uit": null,
    "bt_R": null,
    "live_fill": 1.12406,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "TP",
+   "live_R": 0.6733705772811918,
    "slippage_pips": null,
-   "commissie": null,
-   "swap": null,
+   "commissie": -0.66,
+   "swap": 0.0,
    "status": "alleen live"
   },
   {

@@ -84,15 +84,15 @@
    "t_sig": "2026-11-03 16:00",
    "richting": "LONG",
    "bt_fill": 3959.09582,
-   "bt_uit": "loopt",
-   "bt_R": null,
+   "bt_uit": "TP",
+   "bt_R": 0.6492383365949836,
    "live_fill": 3958.9,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "TP",
+   "live_R": 0.6506466110244886,
    "slippage_pips": -1.958199999999124,
-   "commissie": null,
-   "swap": null,
-   "status": "gelijk (loopt)"
+   "commissie": -0.14,
+   "swap": -0.93,
+   "status": "gelijk"
   },
   {
    "key": "Test #1 (FVG)|GBPUSD|2026-11-03 17:45|SHORT|1.341442",

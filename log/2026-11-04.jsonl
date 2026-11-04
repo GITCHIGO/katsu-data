@@ -19,3 +19,12 @@
 {"time": "2026-11-04 03:00:15.434992", "kind": "scan", "text": "scan tot 04-11 03:00 · 0 nieuw, 0 gemist · 19.9s"}
 {"time": "2026-11-04 03:05:06.532281", "kind": "gesloten", "text": "T1 · EURUSD · LONG: gesloten (TP) op 1.12294 · +1.22R · +17.5 pips · +14.92", "order": "T1-EUR-2611040245-1", "discord": true}
 {"time": "2026-11-04 03:15:16.788019", "kind": "scan", "text": "scan tot 04-11 03:15 · 0 nieuw, 0 gemist · 15.3s"}
+{"time": "2026-11-04 03:30:13.457998", "kind": "scan", "text": "scan tot 04-11 03:30 · 1 nieuw, 0 gemist · 14.5s"}
+{"time": "2026-11-04 03:30:13.457998", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.12266 · SL 1.12106 · TP 1.12514 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611040330-1", "discord": true}
+{"time": "2026-11-04 03:37:09.082083", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611040330-1", "discord": true}
+{"time": "2026-11-04 03:45:19.276535", "kind": "scan", "text": "scan tot 04-11 03:45 · 1 nieuw, 0 gemist · 12.4s"}
+{"time": "2026-11-04 03:45:19.276535", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.1241 · SL 1.12105 · TP 1.12616 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611040345-1", "discord": true}
+{"time": "2026-11-04 03:51:19.372506", "kind": "gevuld", "text": "T1 · EURUSD · LONG: gevuld op 1.12406 · SL 1.12105 · TP 1.12616", "order": "T1-EUR-2611040345-1", "discord": true}
+{"time": "2026-11-04 04:00:19.614143", "kind": "scan", "text": "scan tot 04-11 04:00 · 0 nieuw, 0 gemist · 19.6s"}
+{"time": "2026-11-04 04:15:10.619598", "kind": "scan", "text": "scan tot 04-11 04:15 · 1 nieuw, 0 gemist · 14.5s"}
+{"time": "2026-11-04 04:15:10.619598", "kind": "wacht", "text": "T1 · XAUUSD · SHORT: signaal geparkeerd: er loopt al een trade van deze setup op dit pair · limiet 3950.11 · SL 3966.11", "order": "T1-XAU-2611040415-1", "discord": true}

@@ -75,3 +75,10 @@
 {"time": "2026-11-05 16:45:12.544881", "kind": "scan", "text": "scan tot 05-11 16:45 · 0 nieuw, 0 gemist · 20.1s"}
 {"time": "2026-11-05 17:00:14.303025", "kind": "scan", "text": "scan tot 05-11 17:00 · 0 nieuw, 0 gemist · 31.0s"}
 {"time": "2026-11-05 17:15:16.800240", "kind": "scan", "text": "scan tot 05-11 17:15 · 0 nieuw, 0 gemist · 22.2s"}
+{"time": "2026-11-05 17:29:56.887961", "kind": "gesloten", "text": "T1 · GBPUSD · LONG: gesloten (TP) op 1.34836 · +0.91R · +19.1 pips · +16.35", "order": "T1-GBP-2611051430-1", "discord": true}
+{"time": "2026-11-05 17:30:16.891232", "kind": "scan", "text": "scan tot 05-11 17:30 · 0 nieuw, 0 gemist · 25.9s"}
+{"time": "2026-11-05 17:45:14.264800", "kind": "scan", "text": "scan tot 05-11 17:45 · 1 nieuw, 0 gemist · 21.0s"}
+{"time": "2026-11-05 17:45:14.264800", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.12189 · SL 1.12021 · TP 1.12353 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611051745-1", "discord": true}
+{"time": "2026-11-05 17:50:46.537968", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611051745-1", "discord": true}
+{"time": "2026-11-05 18:00:16.833399", "kind": "scan", "text": "scan tot 05-11 18:00 · 0 nieuw, 0 gemist · 29.3s"}
+{"time": "2026-11-05 18:15:17.514626", "kind": "scan", "text": "scan tot 05-11 18:15 · 0 nieuw, 0 gemist · 18.2s"}

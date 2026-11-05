@@ -39,3 +39,9 @@
 {"time": "2026-11-05 08:45:17.895154", "kind": "scan", "text": "scan tot 05-11 08:45 · 0 nieuw, 0 gemist · 14.9s"}
 {"time": "2026-11-05 09:00:13.960042", "kind": "scan", "text": "scan tot 05-11 09:00 · 0 nieuw, 0 gemist · 15.0s"}
 {"time": "2026-11-05 09:15:10.333037", "kind": "scan", "text": "scan tot 05-11 09:15 · 0 nieuw, 0 gemist · 13.5s"}
+{"time": "2026-11-05 09:19:58.345240", "kind": "info", "text": "KATSU Live gestart · account 53090711 (demo, EUR) · stand orders · lots {'EURUSD': 0.1, 'GBPUSD': 0.1, 'XAUUSD': 0.02}"}
+{"time": "2026-11-05 09:26:57.353202", "kind": "info", "text": "KATSU Live gestart · account 53090711 (demo, EUR) · stand orders · lots {'EURUSD': 0.1, 'GBPUSD': 0.1, 'XAUUSD': 0.02}"}
+{"time": "2026-11-05 09:30:17.484764", "kind": "scan", "text": "scan tot 05-11 09:30 · 0 nieuw, 0 gemist · 17.0s"}
+{"time": "2026-11-05 09:45:15.025665", "kind": "scan", "text": "scan tot 05-11 09:45 · 0 nieuw, 0 gemist · 16.9s"}
+{"time": "2026-11-05 10:00:13.420770", "kind": "scan", "text": "scan tot 05-11 10:00 · 0 nieuw, 0 gemist · 19.5s"}
+{"time": "2026-11-05 10:15:14.377774", "kind": "scan", "text": "scan tot 05-11 10:15 · 0 nieuw, 0 gemist · 16.1s"}

@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-05 14:18:01.446320",
- "tijd_utc": "2026-11-05T12:18:01+00:00",
+ "tijd_server": "2026-11-05 15:18:06.935553",
+ "tijd_utc": "2026-11-05T13:18:06+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,8 +13,10 @@
   "balance": 5090.36,
   "equity": 5090.36
  },
- "laatste_scan": "2026-11-05 14:15:14.470529",
- "open_trades": [],
+ "laatste_scan": "2026-11-05 15:15:17.383844",
+ "open_trades": [
+  "T1-GBP-2611051430-1"
+ ],
  "open_orders": [],
  "fouten": []
 }

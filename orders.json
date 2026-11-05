@@ -1449,8 +1449,83 @@
      "T1 · EURUSD · LONG: koers raakte de limiet terwijl een andere trade van deze setup liep (backtest: overgeslagen)"
     ]
    ]
+  },
+  {
+   "id": "T1-GBP-2611051430-1",
+   "key": "Test #1 (FVG)|GBPUSD|2026-11-05 14:30|LONG|1.346447",
+   "setup": "Test #1 (FVG)",
+   "market": "GBPUSD",
+   "direction": "LONG",
+   "kind": "limit",
+   "t_sig": "2026-11-05 14:30:00",
+   "anchor": 1.34457,
+   "atr": 0.0009549999999999916,
+   "limit": 1.3464470000000002,
+   "tp_plan": 1.34829,
+   "cancel": 1.34829,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "long",
+    "sweep_dag": "nee",
+    "fvg_nummer": "eerste",
+    "trend_m15": "tegen",
+    "trend_h1": "tegen",
+    "trend_h4": "mee",
+    "trend_d1": "mee",
+    "sessie": "overlap",
+    "weekdag": "do",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "gevuld",
+   "reason": "limiet 1.34645 · SL 1.34444 · TP 1.34829 · 0.1 lot · geldig tot 480 M15-candles",
+   "ticket": 2064440301,
+   "position": 2064440301,
+   "sl": 1.34444,
+   "tp": 1.34829,
+   "fill_px": 1.34645,
+   "fill_time": "2026-11-05 14:32:48",
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": 0.0020099999999998452,
+   "risk_money": 17.91,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-11-05 14:30:11.733068",
+     "geplaatst",
+     "T1 · GBPUSD · LONG: limiet 1.34645 · SL 1.34444 · TP 1.34829 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-05 14:32:49.579684",
+     "gevuld",
+     "T1 · GBPUSD · LONG: gevuld op 1.34645 · SL 1.34444 · TP 1.34829"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-05 14:15:00"
+ "last_scan": "2026-11-05 15:15:00"
 }

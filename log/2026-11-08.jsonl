@@ -11,3 +11,9 @@
 {"time": "2026-11-08 01:45:16.777313", "kind": "scan", "text": "scan tot 08-11 01:45 · 0 nieuw, 0 gemist · 10.7s"}
 {"time": "2026-11-08 02:00:18.740185", "kind": "scan", "text": "scan tot 08-11 02:00 · 0 nieuw, 0 gemist · 15.6s"}
 {"time": "2026-11-08 02:15:15.649091", "kind": "scan", "text": "scan tot 08-11 02:15 · 0 nieuw, 0 gemist · 11.3s"}
+{"time": "2026-11-08 02:30:18.209018", "kind": "scan", "text": "scan tot 08-11 02:30 · 0 nieuw, 0 gemist · 11.6s"}
+{"time": "2026-11-08 02:37:38.156178", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-08 02:38:28.162485", "kind": "info", "text": "verbinding met MT5 terug na 0.8 min"}
+{"time": "2026-11-08 02:45:18.273583", "kind": "scan", "text": "scan tot 08-11 02:45 · 0 nieuw, 0 gemist · 12.0s"}
+{"time": "2026-11-08 03:00:11.494972", "kind": "scan", "text": "scan tot 08-11 03:00 · 0 nieuw, 0 gemist · 19.4s"}
+{"time": "2026-11-08 03:15:12.252178", "kind": "scan", "text": "scan tot 08-11 03:15 · 0 nieuw, 0 gemist · 13.5s"}

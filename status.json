@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-09 06:18:03.904039",
- "tijd_utc": "2026-11-09T04:18:03+00:00",
+ "tijd_server": "2026-11-09 07:18:07.413555",
+ "tijd_utc": "2026-11-09T05:18:07+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,7 +13,7 @@
   "balance": 5106.71,
   "equity": 5106.71
  },
- "laatste_scan": "2026-11-09 06:15:10.470117",
+ "laatste_scan": "2026-11-09 07:15:13.645458",
  "open_trades": [],
  "open_orders": [],
  "fouten": []

@@ -11,3 +11,7 @@
 {"time": "2026-11-10 02:00:14.469772", "kind": "geplaatst", "text": "T1 · XAUUSD · SHORT: limiet 4140.83 · SL 4147.89 · TP 4133.82 · 0.02 lot · geldig tot 480 M15-candles", "order": "T1-XAU-2611100200-1", "discord": true}
 {"time": "2026-11-10 02:15:13.359373", "kind": "scan", "text": "scan tot 10-11 02:15 · 0 nieuw, 0 gemist · 14.3s"}
 {"time": "2026-11-10 02:15:13.359373", "kind": "geannuleerd", "text": "T1 · XAUUSD · SHORT: TP-niveau eerst geraakt (candle 10-11 02:00)", "order": "T1-XAU-2611100200-1", "discord": true}
+{"time": "2026-11-10 02:30:19.012786", "kind": "scan", "text": "scan tot 10-11 02:30 · 0 nieuw, 0 gemist · 13.0s"}
+{"time": "2026-11-10 02:45:13.459804", "kind": "scan", "text": "scan tot 10-11 02:45 · 0 nieuw, 0 gemist · 12.5s"}
+{"time": "2026-11-10 03:00:17.266079", "kind": "scan", "text": "scan tot 10-11 03:00 · 0 nieuw, 0 gemist · 23.1s"}
+{"time": "2026-11-10 03:15:11.736830", "kind": "scan", "text": "scan tot 10-11 03:15 · 0 nieuw, 0 gemist · 15.4s"}

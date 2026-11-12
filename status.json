@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-12 16:18:03.080817",
- "tijd_utc": "2026-11-12T14:18:03+00:00",
+ "tijd_server": "2026-11-12 17:18:08.949871",
+ "tijd_utc": "2026-11-12T15:18:08+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,10 +13,16 @@
   "balance": 5106.71,
   "equity": 5106.71
  },
- "laatste_scan": "2026-11-12 16:15:15.357809",
- "open_trades": [
-  "ZONE-GBP-2611120945-1"
- ],
+ "laatste_scan": "2026-11-12 17:15:12.893913",
+ "open_trades": [],
  "open_orders": [],
- "fouten": []
+ "fouten": [
+  {
+   "time": "2026-11-12 16:57:39.542502",
+   "kind": "fout",
+   "text": "onbekende KATSU-order/positie #2084743911 bij de broker (niet aangeraakt)",
+   "order": null,
+   "discord": true
+  }
+ ]
 }

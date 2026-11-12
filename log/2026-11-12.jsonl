@@ -67,3 +67,9 @@
 {"time": "2026-11-12 15:45:18.611635", "kind": "scan", "text": "scan tot 12-11 15:45 · 0 nieuw, 0 gemist · 19.2s"}
 {"time": "2026-11-12 16:00:19.121537", "kind": "scan", "text": "scan tot 12-11 16:00 · 0 nieuw, 0 gemist · 24.7s"}
 {"time": "2026-11-12 16:15:15.357809", "kind": "scan", "text": "scan tot 12-11 16:15 · 0 nieuw, 0 gemist · 26.6s"}
+{"time": "2026-11-12 16:30:13.436925", "kind": "scan", "text": "scan tot 12-11 16:30 · 0 nieuw, 0 gemist · 23.1s"}
+{"time": "2026-11-12 16:45:15.116426", "kind": "scan", "text": "scan tot 12-11 16:45 · 0 nieuw, 0 gemist · 23.0s"}
+{"time": "2026-11-12 16:57:39.542502", "kind": "fout", "text": "onbekende KATSU-order/positie #2084743911 bij de broker (niet aangeraakt)", "order": null, "discord": true}
+{"time": "2026-11-12 16:57:49.546274", "kind": "gesloten", "text": "ZONE · GBPUSD · LONG: gesloten (SL) op 1.32469 · -1.09R · -9.5 pips · -9.24", "order": "ZONE-GBP-2611120945-1", "discord": true}
+{"time": "2026-11-12 17:00:19.628394", "kind": "scan", "text": "scan tot 12-11 17:00 · 0 nieuw, 0 gemist · 31.8s"}
+{"time": "2026-11-12 17:15:12.893913", "kind": "scan", "text": "scan tot 12-11 17:15 · 0 nieuw, 0 gemist · 25.0s"}

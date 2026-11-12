@@ -1759,8 +1759,83 @@
      "ZONE · GBPUSD · LONG: gesloten (SL) op 1.32469 · -1.09R · -9.5 pips · -9.24"
     ]
    ]
+  },
+  {
+   "id": "T1-EUR-2611121745-1",
+   "key": "Test #1 (FVG)|EURUSD|2026-11-12 17:45|SHORT|1.106384",
+   "setup": "Test #1 (FVG)",
+   "market": "EURUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-11-12 17:45:00",
+   "anchor": 1.10985,
+   "atr": 0.0009514285714285713,
+   "limit": 1.10638438,
+   "tp_plan": 1.09626,
+   "cancel": 1.099262854285714,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "short",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "neutraal",
+    "trend_h4": "neutraal",
+    "trend_d1": "neutraal",
+    "sessie": "overlap",
+    "weekdag": "do",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "gevuld",
+   "reason": "limiet 1.10638 · SL 1.10996 · TP 1.09923 · 0.1 lot · geldig tot 480 M15-candles",
+   "ticket": 2084974150,
+   "position": 2084974150,
+   "sl": 1.10996,
+   "tp": 1.09931,
+   "fill_px": 1.10641,
+   "fill_time": "2026-11-12 17:56:01",
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": 0.003550000000000164,
+   "risk_money": 31.98,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-11-12 17:45:15.195713",
+     "geplaatst",
+     "T1 · EURUSD · SHORT: limiet 1.10638 · SL 1.10996 · TP 1.09923 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-12 17:56:05.322332",
+     "gevuld",
+     "T1 · EURUSD · SHORT: gevuld op 1.10641 · SL 1.10996 · TP 1.09931"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-12 17:15:00"
+ "last_scan": "2026-11-12 18:15:00"
 }

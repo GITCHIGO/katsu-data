@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 23,
-  "live": 23,
-  "gelijk": 23,
+  "backtest": 24,
+  "live": 24,
+  "gelijk": 24,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -195,9 +195,26 @@
    "commissie": -0.66,
    "swap": 0.0,
    "status": "gelijk"
+  },
+  {
+   "key": "Test #1 (FVG)|EURUSD|2026-11-12 17:45|SHORT|1.106384",
+   "setup": "T1",
+   "markt": "EURUSD",
+   "t_sig": "2026-11-12 17:45",
+   "richting": "SHORT",
+   "bt_fill": 1.10638438,
+   "bt_uit": "loopt",
+   "bt_R": null,
+   "live_fill": 1.10641,
+   "live_uit": "loopt",
+   "live_R": null,
+   "slippage_pips": -0.2561999999994846,
+   "commissie": null,
+   "swap": null,
+   "status": "gelijk (loopt)"
   }
  ],
- "overeenkomst": 0.7272727272727273,
- "n_trades": 11,
- "n_gelijk": 8
+ "overeenkomst": 0.75,
+ "n_trades": 12,
+ "n_gelijk": 9
 }

@@ -79,3 +79,7 @@
 {"time": "2026-11-12 17:56:05.322332", "kind": "gevuld", "text": "T1 · EURUSD · SHORT: gevuld op 1.10641 · SL 1.10996 · TP 1.09931", "order": "T1-EUR-2611121745-1", "discord": true}
 {"time": "2026-11-12 18:00:15.382498", "kind": "scan", "text": "scan tot 12-11 18:00 · 0 nieuw, 0 gemist · 21.8s"}
 {"time": "2026-11-12 18:15:18.491514", "kind": "scan", "text": "scan tot 12-11 18:15 · 0 nieuw, 0 gemist · 18.2s"}
+{"time": "2026-11-12 18:30:17.956897", "kind": "scan", "text": "scan tot 12-11 18:30 · 0 nieuw, 0 gemist · 17.2s"}
+{"time": "2026-11-12 18:45:16.420655", "kind": "scan", "text": "scan tot 12-11 18:45 · 0 nieuw, 0 gemist · 16.9s"}
+{"time": "2026-11-12 19:00:16.040325", "kind": "scan", "text": "scan tot 12-11 19:00 · 0 nieuw, 0 gemist · 21.1s"}
+{"time": "2026-11-12 19:15:18.424935", "kind": "scan", "text": "scan tot 12-11 19:15 · 0 nieuw, 0 gemist · 16.3s"}

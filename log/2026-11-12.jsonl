@@ -58,3 +58,8 @@
 {"time": "2026-11-12 13:45:13.667644", "kind": "scan", "text": "scan tot 12-11 13:45 · 0 nieuw, 0 gemist · 19.1s"}
 {"time": "2026-11-12 14:00:14.210315", "kind": "scan", "text": "scan tot 12-11 14:00 · 0 nieuw, 0 gemist · 24.8s"}
 {"time": "2026-11-12 14:15:10.597221", "kind": "scan", "text": "scan tot 12-11 14:15 · 0 nieuw, 0 gemist · 17.6s"}
+{"time": "2026-11-12 14:30:12.875796", "kind": "scan", "text": "scan tot 12-11 14:30 · 0 nieuw, 0 gemist · 18.0s"}
+{"time": "2026-11-12 14:45:12.231871", "kind": "scan", "text": "scan tot 12-11 14:45 · 0 nieuw, 0 gemist · 17.2s"}
+{"time": "2026-11-12 15:00:10.773666", "kind": "scan", "text": "scan tot 12-11 15:00 · 0 nieuw, 0 gemist · 24.5s"}
+{"time": "2026-11-12 15:09:46.725307", "kind": "gevuld", "text": "ZONE · GBPUSD · LONG: gevuld op 1.32564 · SL 1.3247 · TP 1.32752", "order": "ZONE-GBP-2611120945-1", "discord": true}
+{"time": "2026-11-12 15:15:16.843941", "kind": "scan", "text": "scan tot 12-11 15:15 · 0 nieuw, 0 gemist · 25.8s"}

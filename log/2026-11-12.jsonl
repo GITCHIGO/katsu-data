@@ -42,3 +42,7 @@
 {"time": "2026-11-12 09:45:11.038879", "kind": "geplaatst", "text": "ZONE · GBPUSD · LONG: limiet 1.32564 · SL 1.3247 · TP 1.32752 · 0.1 lot · geldig tot 2026-11-19 09:45:00", "order": "ZONE-GBP-2611120945-1", "discord": true}
 {"time": "2026-11-12 10:00:19.594407", "kind": "scan", "text": "scan tot 12-11 10:00 · 0 nieuw, 0 gemist · 19.7s"}
 {"time": "2026-11-12 10:15:10.628695", "kind": "scan", "text": "scan tot 12-11 10:15 · 0 nieuw, 0 gemist · 16.2s"}
+{"time": "2026-11-12 10:30:18.324869", "kind": "scan", "text": "scan tot 12-11 10:30 · 0 nieuw, 0 gemist · 19.2s"}
+{"time": "2026-11-12 10:45:19.982793", "kind": "scan", "text": "scan tot 12-11 10:45 · 0 nieuw, 0 gemist · 21.0s"}
+{"time": "2026-11-12 11:00:12.349696", "kind": "scan", "text": "scan tot 12-11 11:00 · 0 nieuw, 0 gemist · 26.1s"}
+{"time": "2026-11-12 11:15:19.841228", "kind": "scan", "text": "scan tot 12-11 11:15 · 0 nieuw, 0 gemist · 19.5s"}

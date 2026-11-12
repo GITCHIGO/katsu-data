@@ -1741,7 +1741,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-12 11:00:00",
+   "checked_bar": "2026-11-12 12:00:00",
    "history": [
     [
      "2026-11-12 09:45:11.038879",
@@ -1752,5 +1752,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-12 11:15:00"
+ "last_scan": "2026-11-12 12:15:00"
 }

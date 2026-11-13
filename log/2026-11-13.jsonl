@@ -75,3 +75,7 @@
 {"time": "2026-11-13 18:00:18.927179", "kind": "scan", "text": "scan tot 13-11 18:00 · 0 nieuw, 0 gemist · 22.1s"}
 {"time": "2026-11-13 18:00:18.927179", "kind": "geannuleerd", "text": "T1 · GBPUSD · SHORT: TP-niveau eerst geraakt (candle 13-11 17:45)", "order": "T1-GBP-2611131745-1", "discord": true}
 {"time": "2026-11-13 18:15:12.508601", "kind": "scan", "text": "scan tot 13-11 18:15 · 0 nieuw, 0 gemist · 15.8s"}
+{"time": "2026-11-13 18:30:19.680985", "kind": "scan", "text": "scan tot 13-11 18:30 · 0 nieuw, 0 gemist · 17.9s"}
+{"time": "2026-11-13 18:45:12.110930", "kind": "scan", "text": "scan tot 13-11 18:45 · 0 nieuw, 0 gemist · 17.5s"}
+{"time": "2026-11-13 19:00:10.966356", "kind": "scan", "text": "scan tot 13-11 19:00 · 0 nieuw, 0 gemist · 19.2s"}
+{"time": "2026-11-13 19:15:11.499581", "kind": "scan", "text": "scan tot 13-11 19:15 · 0 nieuw, 0 gemist · 14.6s"}

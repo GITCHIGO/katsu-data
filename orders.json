@@ -1834,8 +1834,83 @@
      "T1 · EURUSD · SHORT: gevuld op 1.10641 · SL 1.10996 · TP 1.09931"
     ]
    ]
+  },
+  {
+   "id": "T1-GBP-2611131745-1",
+   "key": "Test #1 (FVG)|GBPUSD|2026-11-13 17:45|SHORT|1.323473",
+   "setup": "Test #1 (FVG)",
+   "market": "GBPUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-11-13 17:45:00",
+   "anchor": 1.3251,
+   "atr": 0.0010242857142856682,
+   "limit": 1.32347258,
+   "tp_plan": 1.32183,
+   "cancel": 1.32183,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "short",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "neutraal",
+    "trend_h4": "mee",
+    "trend_d1": "tegen",
+    "sessie": "overlap",
+    "weekdag": "vr",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "0,1–0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "geannuleerd",
+   "reason": "TP-niveau eerst geraakt (candle 13-11 17:45)",
+   "ticket": 2088361804,
+   "position": null,
+   "sl": 1.32523,
+   "tp": 1.32183,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": "2026-11-13 17:45:00",
+   "history": [
+    [
+     "2026-11-13 17:45:18.655377",
+     "geplaatst",
+     "T1 · GBPUSD · SHORT: limiet 1.32347 · SL 1.32523 · TP 1.32183 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-13 18:00:18.927179",
+     "geannuleerd",
+     "T1 · GBPUSD · SHORT: TP-niveau eerst geraakt (candle 13-11 17:45)"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-13 17:15:00"
+ "last_scan": "2026-11-13 18:15:00"
 }

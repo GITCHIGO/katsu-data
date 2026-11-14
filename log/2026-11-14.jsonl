@@ -49,3 +49,12 @@
 {"time": "2026-11-14 11:45:17.653699", "kind": "scan", "text": "scan tot 14-11 11:45 · 0 nieuw, 0 gemist · 12.8s"}
 {"time": "2026-11-14 12:00:11.891695", "kind": "scan", "text": "scan tot 14-11 12:00 · 0 nieuw, 0 gemist · 16.2s"}
 {"time": "2026-11-14 12:15:19.438050", "kind": "scan", "text": "scan tot 14-11 12:15 · 0 nieuw, 0 gemist · 14.0s"}
+{"time": "2026-11-14 12:30:13.181303", "kind": "scan", "text": "scan tot 14-11 12:30 · 0 nieuw, 0 gemist · 13.1s"}
+{"time": "2026-11-14 12:45:17.464040", "kind": "scan", "text": "scan tot 14-11 12:45 · 0 nieuw, 0 gemist · 13.1s"}
+{"time": "2026-11-14 12:57:31.846519", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-14 12:59:31.871991", "kind": "fout", "text": "verbinding met MT5 al 2 min weg (sinds 12:57 server)"}
+{"time": "2026-11-14 12:59:41.872989", "kind": "info", "text": "verbinding met MT5 terug na 2.2 min"}
+{"time": "2026-11-14 13:00:01.875262", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-14 13:00:31.925120", "kind": "info", "text": "verbinding met MT5 terug na 0.5 min"}
+{"time": "2026-11-14 13:00:31.925120", "kind": "scan", "text": "scan tot 14-11 13:00 · 0 nieuw, 0 gemist · 16.9s"}
+{"time": "2026-11-14 13:15:10.159905", "kind": "scan", "text": "scan tot 14-11 13:15 · 0 nieuw, 0 gemist · 12.9s"}

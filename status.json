@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-16 23:18:12.289314",
- "tijd_utc": "2026-11-16T21:18:12+00:00",
+ "tijd_server": "2026-11-17 00:18:02.466094",
+ "tijd_utc": "2026-11-16T22:18:02+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -10,10 +10,10 @@
   "server": "ICMarketsSC-Demo",
   "demo": true,
   "currency": "EUR",
-  "balance": 5097.14,
-  "equity": 5127.13
+  "balance": 5154.64,
+  "equity": 5154.64
  },
- "laatste_scan": "2026-11-16 23:15:18.836236",
+ "laatste_scan": "2026-11-17 00:15:10.461905",
  "open_trades": [],
  "open_orders": [],
  "fouten": [

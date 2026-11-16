@@ -1950,19 +1950,19 @@
     "kosten": ">0,2R",
     "nfp_dag": "nee"
    },
-   "state": "geplaatst",
+   "state": "gevuld",
    "reason": "limiet 1.3189 · SL 1.31821 · TP 1.32028 · 0.1 lot · geldig tot 2026-11-23 14:15:00",
    "ticket": 2092678952,
-   "position": null,
+   "position": 2092678952,
    "sl": 1.31821,
-   "tp": 1.32028,
-   "fill_px": null,
-   "fill_time": null,
+   "tp": 1.32019,
+   "fill_px": 1.31887,
+   "fill_time": "2026-11-16 16:57:23",
    "exit_px": null,
    "exit_time": null,
    "exit_reason": null,
-   "risk_px": null,
-   "risk_money": null,
+   "risk_px": 0.0006599999999998829,
+   "risk_money": 6.0,
    "profit": null,
    "commission": null,
    "swap": null,
@@ -1971,16 +1971,21 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-16 16:00:00",
+   "checked_bar": "2026-11-16 16:30:00",
    "history": [
     [
      "2026-11-16 14:15:15.629914",
      "geplaatst",
      "ZONE · GBPUSD · LONG: limiet 1.3189 · SL 1.31821 · TP 1.32028 · 0.1 lot · geldig tot 2026-11-23 14:15:00"
+    ],
+    [
+     "2026-11-16 16:57:31.474271",
+     "gevuld",
+     "ZONE · GBPUSD · LONG: gevuld op 1.31887 · SL 1.31821 · TP 1.32019"
     ]
    ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-16 16:15:00"
+ "last_scan": "2026-11-16 17:15:00"
 }

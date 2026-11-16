@@ -1971,7 +1971,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-16 15:00:00",
+   "checked_bar": "2026-11-16 16:00:00",
    "history": [
     [
      "2026-11-16 14:15:15.629914",
@@ -1982,5 +1982,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-16 15:15:00"
+ "last_scan": "2026-11-16 16:15:00"
 }

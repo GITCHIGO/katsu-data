@@ -84,3 +84,8 @@
 {"time": "2026-11-16 19:45:10.488817", "kind": "scan", "text": "scan tot 16-11 19:45 · 0 nieuw, 0 gemist · 13.3s"}
 {"time": "2026-11-16 20:00:15.146723", "kind": "scan", "text": "scan tot 16-11 20:00 · 0 nieuw, 0 gemist · 16.7s"}
 {"time": "2026-11-16 20:15:17.086214", "kind": "scan", "text": "scan tot 16-11 20:15 · 0 nieuw, 0 gemist · 12.3s"}
+{"time": "2026-11-16 20:22:40.682381", "kind": "gesloten", "text": "T1 · EURUSD · SHORT: gesloten (TP) op 1.0993 · +2.01R · +71.1 pips · +64.28", "order": "T1-EUR-2611121745-1", "discord": true}
+{"time": "2026-11-16 20:30:10.902648", "kind": "scan", "text": "scan tot 16-11 20:30 · 0 nieuw, 0 gemist · 12.0s"}
+{"time": "2026-11-16 20:45:14.197399", "kind": "scan", "text": "scan tot 16-11 20:45 · 0 nieuw, 0 gemist · 11.3s"}
+{"time": "2026-11-16 21:00:16.819807", "kind": "scan", "text": "scan tot 16-11 21:00 · 0 nieuw, 0 gemist · 13.2s"}
+{"time": "2026-11-16 21:15:11.353453", "kind": "scan", "text": "scan tot 16-11 21:15 · 0 nieuw, 0 gemist · 11.4s"}

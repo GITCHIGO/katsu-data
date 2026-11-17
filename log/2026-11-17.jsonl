@@ -78,3 +78,7 @@
 {"time": "2026-11-17 18:00:10.688320", "kind": "scan", "text": "scan tot 17-11 18:00 · 0 nieuw, 0 gemist · 37.4s"}
 {"time": "2026-11-17 18:00:10.688320", "kind": "geannuleerd", "text": "T1 · XAUUSD · LONG: TP-niveau eerst geraakt (candle 17-11 17:45)", "order": "T1-XAU-2611171745-1", "discord": true}
 {"time": "2026-11-17 18:15:19.618307", "kind": "scan", "text": "scan tot 17-11 18:15 · 0 nieuw, 0 gemist · 18.0s"}
+{"time": "2026-11-17 18:30:18.882976", "kind": "scan", "text": "scan tot 17-11 18:30 · 0 nieuw, 0 gemist · 15.3s"}
+{"time": "2026-11-17 18:45:15.635128", "kind": "scan", "text": "scan tot 17-11 18:45 · 0 nieuw, 0 gemist · 15.0s"}
+{"time": "2026-11-17 19:00:11.943803", "kind": "scan", "text": "scan tot 17-11 19:00 · 0 nieuw, 0 gemist · 20.6s"}
+{"time": "2026-11-17 19:15:13.956227", "kind": "scan", "text": "scan tot 17-11 19:15 · 0 nieuw, 0 gemist · 15.2s"}

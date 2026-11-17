@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 27,
-  "live": 27,
-  "gelijk": 27,
+  "backtest": 28,
+  "live": 28,
+  "gelijk": 28,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []

@@ -2035,25 +2035,25 @@
     "kosten": "0,1–0,2R",
     "nfp_dag": "nee"
    },
-   "state": "gevuld",
-   "reason": "limiet 1.31896 · SL 1.32002 · TP 1.31688 · 0.1 lot · geldig tot 480 M15-candles",
+   "state": "gesloten",
+   "reason": "gesloten (SL) op 1.32004 · -1.09R · -10.4 pips · -10.12",
    "ticket": 2096292060,
    "position": 2096292060,
    "sl": 1.32002,
    "tp": 1.31696,
    "fill_px": 1.319,
    "fill_time": "2026-11-17 16:03:47",
-   "exit_px": null,
-   "exit_time": null,
-   "exit_reason": null,
+   "exit_px": 1.32004,
+   "exit_time": "2026-11-17 16:22:08",
+   "exit_reason": "SL",
    "risk_px": 0.0010200000000000209,
    "risk_money": 9.29,
-   "profit": null,
-   "commission": null,
-   "swap": null,
-   "net": null,
-   "r_net": null,
-   "pips": null,
+   "profit": -9.46,
+   "commission": -0.66,
+   "swap": 0.0,
+   "net": -10.120000000000001,
+   "r_net": -1.0893433799784717,
+   "pips": -10.40000000000152,
    "parked": false,
    "close_why": null,
    "checked_bar": "2026-11-17 15:45:00",
@@ -2067,10 +2067,15 @@
      "2026-11-17 16:03:49.772441",
      "gevuld",
      "T1 · GBPUSD · SHORT: gevuld op 1.319 · SL 1.32002 · TP 1.31696"
+    ],
+    [
+     "2026-11-17 16:22:11.183051",
+     "gesloten",
+     "T1 · GBPUSD · SHORT: gesloten (SL) op 1.32004 · -1.09R · -10.4 pips · -10.12"
     ]
    ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-17 16:15:00"
+ "last_scan": "2026-11-17 17:15:00"
 }

@@ -67,3 +67,8 @@
 {"time": "2026-11-17 16:00:14.790336", "kind": "scan", "text": "scan tot 17-11 16:00 · 0 nieuw, 0 gemist · 23.9s"}
 {"time": "2026-11-17 16:03:49.772441", "kind": "gevuld", "text": "T1 · GBPUSD · SHORT: gevuld op 1.319 · SL 1.32002 · TP 1.31696", "order": "T1-GBP-2611171545-1", "discord": true}
 {"time": "2026-11-17 16:15:10.190149", "kind": "scan", "text": "scan tot 17-11 16:15 · 0 nieuw, 0 gemist · 19.8s"}
+{"time": "2026-11-17 16:22:11.183051", "kind": "gesloten", "text": "T1 · GBPUSD · SHORT: gesloten (SL) op 1.32004 · -1.09R · -10.4 pips · -10.12", "order": "T1-GBP-2611171545-1", "discord": true}
+{"time": "2026-11-17 16:30:11.358092", "kind": "scan", "text": "scan tot 17-11 16:30 · 0 nieuw, 0 gemist · 18.5s"}
+{"time": "2026-11-17 16:45:15.256797", "kind": "scan", "text": "scan tot 17-11 16:45 · 0 nieuw, 0 gemist · 19.2s"}
+{"time": "2026-11-17 17:00:15.859143", "kind": "scan", "text": "scan tot 17-11 17:00 · 0 nieuw, 0 gemist · 21.8s"}
+{"time": "2026-11-17 17:15:19.023665", "kind": "scan", "text": "scan tot 17-11 17:15 · 0 nieuw, 0 gemist · 18.8s"}

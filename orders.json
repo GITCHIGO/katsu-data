@@ -2149,8 +2149,88 @@
      "T1 · XAUUSD · LONG: TP-niveau eerst geraakt (candle 17-11 17:45)"
     ]
    ]
+  },
+  {
+   "id": "AMD-XAU-2611180730-1",
+   "key": "AMD-extra (#386)|XAUUSD|2026-11-18 07:30|LONG|mkt",
+   "setup": "AMD-extra (#386)",
+   "market": "XAUUSD",
+   "direction": "LONG",
+   "kind": "market",
+   "t_sig": "2026-11-18 07:30:00",
+   "anchor": 3780.22,
+   "atr": 9.280714285714307,
+   "limit": null,
+   "tp_plan": 3849.31,
+   "cancel": null,
+   "max_rr": null,
+   "valid_until": null,
+   "valid_bars": null,
+   "close_eod": true,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.02,
+   "magic": 710102,
+   "features": {
+    "soort": "AMD",
+    "richting": "long",
+    "sweep_dag": "ja",
+    "fvg_nummer": "n.v.t.",
+    "trend_m15": "neutraal",
+    "trend_h1": "neutraal",
+    "trend_h4": "tegen",
+    "trend_d1": "neutraal",
+    "sessie": "Azië",
+    "weekdag": "wo",
+    "volatiliteit": "hoog",
+    "amd_variant": "C2-E1",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "gesloten",
+   "reason": "gesloten (SL) op 3779.01 · -1.02R · -138.2 pips · -25.31",
+   "ticket": 2098656043,
+   "position": 2098656043,
+   "sl": 3779.19,
+   "tp": 3849.31,
+   "fill_px": 3792.83,
+   "fill_time": "2026-11-18 07:30:32",
+   "exit_px": 3779.01,
+   "exit_time": "2026-11-18 08:18:11",
+   "exit_reason": "SL",
+   "risk_px": 13.639999999999873,
+   "risk_money": 24.83,
+   "profit": -25.17,
+   "commission": -0.14,
+   "swap": 0.0,
+   "net": -25.310000000000002,
+   "r_net": -1.0193314538864278,
+   "pips": -138.1999999999971,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-11-18 07:30:16.940465",
+     "geplaatst",
+     "AMD · XAUUSD · LONG: marktorder verstuurd · 0.02 lot · SL 3779.19 · TP 3849.31"
+    ],
+    [
+     "2026-11-18 07:30:16.940465",
+     "gevuld",
+     "AMD · XAUUSD · LONG: gevuld op 3792.83 · SL 3779.19 · TP 3849.31"
+    ],
+    [
+     "2026-11-18 08:18:11.938906",
+     "gesloten",
+     "AMD · XAUUSD · LONG: gesloten (SL) op 3779.01 · -1.02R · -138.2 pips · -25.31"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-18 07:15:00"
+ "last_scan": "2026-11-18 08:15:00"
 }

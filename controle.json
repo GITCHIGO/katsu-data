@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 28,
-  "live": 28,
-  "gelijk": 28,
+  "backtest": 29,
+  "live": 29,
+  "gelijk": 29,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -246,9 +246,26 @@
    "commissie": -0.66,
    "swap": 0.0,
    "status": "gelijk"
+  },
+  {
+   "key": "AMD-extra (#386)|XAUUSD|2026-11-18 07:30|LONG|mkt",
+   "setup": "AMD",
+   "markt": "XAUUSD",
+   "t_sig": "2026-11-18 07:30",
+   "richting": "LONG",
+   "bt_fill": 3790.64,
+   "bt_uit": "MAX_DUUR",
+   "bt_R": -0.19825327510917823,
+   "live_fill": 3792.83,
+   "live_uit": "loopt",
+   "live_R": null,
+   "slippage_pips": 21.900000000000546,
+   "commissie": null,
+   "swap": null,
+   "status": "verschil: één loopt nog"
   }
  ],
- "overeenkomst": 0.7857142857142857,
- "n_trades": 14,
+ "overeenkomst": 0.7333333333333333,
+ "n_trades": 15,
  "n_gelijk": 11
 }

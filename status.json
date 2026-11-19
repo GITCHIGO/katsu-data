@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-19 06:18:10.394160",
- "tijd_utc": "2026-11-19T04:18:10+00:00",
+ "tijd_server": "2026-11-19 07:18:10.148080",
+ "tijd_utc": "2026-11-19T05:18:10+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,10 +13,15 @@
   "balance": 5119.21,
   "equity": 5119.21
  },
- "laatste_scan": "2026-11-19 06:15:15.487283",
+ "laatste_scan": "2026-11-19 07:15:14.854613",
  "open_trades": [],
  "open_orders": [],
  "fouten": [
+  {
+   "time": "2026-11-19 06:59:23.116764",
+   "kind": "fout",
+   "text": "verbinding met MT5 al 2 min weg (sinds 06:57 server)"
+  },
   {
    "time": "2026-11-14 17:46:51.444443",
    "kind": "fout",

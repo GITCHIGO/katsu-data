@@ -59,3 +59,11 @@
 {"time": "2026-11-20 13:45:15.498360", "kind": "scan", "text": "scan tot 20-11 13:45 · 0 nieuw, 0 gemist · 17.6s"}
 {"time": "2026-11-20 14:00:14.614077", "kind": "scan", "text": "scan tot 20-11 14:00 · 0 nieuw, 0 gemist · 33.5s"}
 {"time": "2026-11-20 14:15:10.355079", "kind": "scan", "text": "scan tot 20-11 14:15 · 0 nieuw, 0 gemist · 20.4s"}
+{"time": "2026-11-20 14:30:13.342571", "kind": "scan", "text": "scan tot 20-11 14:30 · 0 nieuw, 0 gemist · 23.4s"}
+{"time": "2026-11-20 14:45:18.303697", "kind": "scan", "text": "scan tot 20-11 14:45 · 1 nieuw, 0 gemist · 20.0s"}
+{"time": "2026-11-20 14:45:18.303697", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.09665 · SL 1.09566 · TP 1.09864 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611201445-1", "discord": true}
+{"time": "2026-11-20 15:00:10.958006", "kind": "scan", "text": "scan tot 20-11 15:00 · 1 nieuw, 0 gemist · 42.5s"}
+{"time": "2026-11-20 15:00:10.958006", "kind": "geplaatst", "text": "T1 · EURUSD · LONG: limiet 1.09733 · SL 1.09566 · TP 1.09899 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611201500-1", "discord": true}
+{"time": "2026-11-20 15:02:04.828678", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611201445-1", "discord": true}
+{"time": "2026-11-20 15:04:05.535725", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611201500-1", "discord": true}
+{"time": "2026-11-20 15:15:16.460534", "kind": "scan", "text": "scan tot 20-11 15:15 · 0 nieuw, 0 gemist · 24.1s"}

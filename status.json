@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-20 14:18:02.964865",
- "tijd_utc": "2026-11-20T12:18:02+00:00",
+ "tijd_server": "2026-11-20 15:18:12.777824",
+ "tijd_utc": "2026-11-20T13:18:12+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,7 +13,7 @@
   "balance": 5119.21,
   "equity": 5119.21
  },
- "laatste_scan": "2026-11-20 14:15:10.355079",
+ "laatste_scan": "2026-11-20 15:15:16.460534",
  "open_trades": [
   "AMD-XAU-2611200800-1"
  ],

@@ -442,6 +442,40 @@
    "magic": 710102,
    "commentaar": "[sl 3779.19]",
    "reden": 4
+  },
+  {
+   "ticket": 1694029218,
+   "order": 2106642743,
+   "positie": 2106642743,
+   "tijd": "2026-11-20 08:00:40",
+   "symbool": "XAUUSD",
+   "type": 0,
+   "entry": 0,
+   "volume": 0.02,
+   "prijs": 3543.14,
+   "winst": 0.0,
+   "commissie": -0.07,
+   "swap": 0.0,
+   "magic": 710102,
+   "commentaar": "AMD-XAU-2611200800-1",
+   "reden": 3
+  },
+  {
+   "ticket": 1696122265,
+   "order": 2109105813,
+   "positie": 2106642743,
+   "tijd": "2026-11-20 20:28:07",
+   "symbool": "XAUUSD",
+   "type": 1,
+   "entry": 1,
+   "volume": 0.02,
+   "prijs": 3511.91,
+   "winst": -56.94,
+   "commissie": -0.07,
+   "swap": 0.0,
+   "magic": 710102,
+   "commentaar": "[sl 3512.17]",
+   "reden": 4
   }
  ]
 }

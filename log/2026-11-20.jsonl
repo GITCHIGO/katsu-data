@@ -67,3 +67,7 @@
 {"time": "2026-11-20 15:02:04.828678", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611201445-1", "discord": true}
 {"time": "2026-11-20 15:04:05.535725", "kind": "geannuleerd", "text": "T1 · EURUSD · LONG: TP-niveau eerst geraakt vóór de vulling", "order": "T1-EUR-2611201500-1", "discord": true}
 {"time": "2026-11-20 15:15:16.460534", "kind": "scan", "text": "scan tot 20-11 15:15 · 0 nieuw, 0 gemist · 24.1s"}
+{"time": "2026-11-20 15:30:14.421438", "kind": "scan", "text": "scan tot 20-11 15:30 · 0 nieuw, 0 gemist · 26.9s"}
+{"time": "2026-11-20 15:45:13.463176", "kind": "scan", "text": "scan tot 20-11 15:45 · 0 nieuw, 0 gemist · 19.7s"}
+{"time": "2026-11-20 16:00:16.048477", "kind": "scan", "text": "scan tot 20-11 16:00 · 0 nieuw, 0 gemist · 43.0s"}
+{"time": "2026-11-20 16:15:11.444964", "kind": "scan", "text": "scan tot 20-11 16:15 · 0 nieuw, 0 gemist · 24.7s"}

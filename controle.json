@@ -288,15 +288,15 @@
    "t_sig": "2026-11-23 10:15",
    "richting": "SHORT",
    "bt_fill": 3604.53,
-   "bt_uit": "MAX_DUUR",
-   "bt_R": -0.4295081967213128,
+   "bt_uit": "SL",
+   "bt_R": -1.0098360655737704,
    "live_fill": 3602.89,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "SL",
+   "live_R": -1.124785256910823,
    "slippage_pips": 16.400000000003274,
-   "commissie": null,
-   "swap": null,
-   "status": "verschil: één loopt nog"
+   "commissie": -0.14,
+   "swap": 0.0,
+   "status": "gelijk"
   },
   {
    "key": "AMD-extra (#386)|EURUSD|2026-11-23 11:45|SHORT|mkt",
@@ -316,7 +316,7 @@
    "status": "gelijk"
   }
  ],
- "overeenkomst": 0.7777777777777778,
+ "overeenkomst": 0.8333333333333334,
  "n_trades": 18,
- "n_gelijk": 14
+ "n_gelijk": 15
 }

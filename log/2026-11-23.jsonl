@@ -70,3 +70,8 @@
 {"time": "2026-11-23 14:45:13.722796", "kind": "scan", "text": "scan tot 23-11 14:45 · 0 nieuw, 0 gemist · 14.7s"}
 {"time": "2026-11-23 15:00:14.982545", "kind": "scan", "text": "scan tot 23-11 15:00 · 0 nieuw, 0 gemist · 28.3s"}
 {"time": "2026-11-23 15:15:15.551936", "kind": "scan", "text": "scan tot 23-11 15:15 · 0 nieuw, 0 gemist · 17.4s"}
+{"time": "2026-11-23 15:30:14.846713", "kind": "scan", "text": "scan tot 23-11 15:30 · 0 nieuw, 0 gemist · 20.4s"}
+{"time": "2026-11-23 15:45:16.841742", "kind": "scan", "text": "scan tot 23-11 15:45 · 0 nieuw, 0 gemist · 16.0s"}
+{"time": "2026-11-23 15:56:19.418232", "kind": "gesloten", "text": "AMD · XAUUSD · SHORT: gesloten (SL) op 3642.19 · -1.12R · -393.0 pips · -72.02", "order": "AMD-XAU-2611231015-1", "discord": true}
+{"time": "2026-11-23 16:00:19.705619", "kind": "scan", "text": "scan tot 23-11 16:00 · 0 nieuw, 0 gemist · 24.0s"}
+{"time": "2026-11-23 16:15:15.288489", "kind": "scan", "text": "scan tot 23-11 16:15 · 0 nieuw, 0 gemist · 16.8s"}

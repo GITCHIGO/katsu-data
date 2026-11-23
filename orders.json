@@ -2500,25 +2500,25 @@
     "kosten": "<0,1R",
     "nfp_dag": "nee"
    },
-   "state": "gevuld",
-   "reason": "marktorder verstuurd · 0.02 lot · SL 3638.08 · TP 3568.29",
+   "state": "gesloten",
+   "reason": "gesloten (SL) op 3642.19 · -1.12R · -393.0 pips · -72.02",
    "ticket": 2112495680,
    "position": 2112495680,
    "sl": 3638.08,
    "tp": 3568.29,
    "fill_px": 3602.89,
    "fill_time": "2026-11-23 10:15:29",
-   "exit_px": null,
-   "exit_time": null,
-   "exit_reason": null,
+   "exit_px": 3642.19,
+   "exit_time": "2026-11-23 15:56:10",
+   "exit_reason": "SL",
    "risk_px": 35.190000000000055,
    "risk_money": 64.03,
-   "profit": null,
-   "commission": null,
-   "swap": null,
-   "net": null,
-   "r_net": null,
-   "pips": null,
+   "profit": -71.88,
+   "commission": -0.14,
+   "swap": 0.0,
+   "net": -72.02,
+   "r_net": -1.124785256910823,
+   "pips": -393.0000000000018,
    "parked": false,
    "close_why": null,
    "checked_bar": null,
@@ -2532,6 +2532,11 @@
      "2026-11-23 10:15:13.647813",
      "gevuld",
      "AMD · XAUUSD · SHORT: gevuld op 3602.89 · SL 3638.08 · TP 3568.29"
+    ],
+    [
+     "2026-11-23 15:56:19.418232",
+     "gesloten",
+     "AMD · XAUUSD · SHORT: gesloten (SL) op 3642.19 · -1.12R · -393.0 pips · -72.02"
     ]
    ]
   },
@@ -2697,5 +2702,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-23 15:15:00"
+ "last_scan": "2026-11-23 16:15:00"
 }

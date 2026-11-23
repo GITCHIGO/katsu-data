@@ -37,3 +37,9 @@
 {"time": "2026-11-23 08:45:18.155831", "kind": "scan", "text": "scan tot 23-11 08:45 · 0 nieuw, 0 gemist · 12.7s"}
 {"time": "2026-11-23 09:00:12.220816", "kind": "scan", "text": "scan tot 23-11 09:00 · 0 nieuw, 0 gemist · 15.9s"}
 {"time": "2026-11-23 09:15:19.482510", "kind": "scan", "text": "scan tot 23-11 09:15 · 0 nieuw, 0 gemist · 12.8s"}
+{"time": "2026-11-23 09:30:17.556442", "kind": "scan", "text": "scan tot 23-11 09:30 · 0 nieuw, 0 gemist · 17.4s"}
+{"time": "2026-11-23 09:45:16.586406", "kind": "scan", "text": "scan tot 23-11 09:45 · 0 nieuw, 0 gemist · 13.8s"}
+{"time": "2026-11-23 10:00:11.791982", "kind": "scan", "text": "scan tot 23-11 10:00 · 0 nieuw, 0 gemist · 20.4s"}
+{"time": "2026-11-23 10:15:13.647813", "kind": "scan", "text": "scan tot 23-11 10:15 · 1 nieuw, 0 gemist · 16.1s"}
+{"time": "2026-11-23 10:15:13.647813", "kind": "geplaatst", "text": "AMD · XAUUSD · SHORT: marktorder verstuurd · 0.02 lot · SL 3638.08 · TP 3568.29", "order": "AMD-XAU-2611231015-1", "discord": false}
+{"time": "2026-11-23 10:15:13.647813", "kind": "gevuld", "text": "AMD · XAUUSD · SHORT: gevuld op 3602.89 · SL 3638.08 · TP 3568.29", "order": "AMD-XAU-2611231015-1", "discord": true}

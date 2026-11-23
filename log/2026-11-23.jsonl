@@ -43,3 +43,8 @@
 {"time": "2026-11-23 10:15:13.647813", "kind": "scan", "text": "scan tot 23-11 10:15 · 1 nieuw, 0 gemist · 16.1s"}
 {"time": "2026-11-23 10:15:13.647813", "kind": "geplaatst", "text": "AMD · XAUUSD · SHORT: marktorder verstuurd · 0.02 lot · SL 3638.08 · TP 3568.29", "order": "AMD-XAU-2611231015-1", "discord": false}
 {"time": "2026-11-23 10:15:13.647813", "kind": "gevuld", "text": "AMD · XAUUSD · SHORT: gevuld op 3602.89 · SL 3638.08 · TP 3568.29", "order": "AMD-XAU-2611231015-1", "discord": true}
+{"time": "2026-11-23 10:30:12.038233", "kind": "scan", "text": "scan tot 23-11 10:30 · 0 nieuw, 0 gemist · 20.3s"}
+{"time": "2026-11-23 10:45:11.489630", "kind": "scan", "text": "scan tot 23-11 10:45 · 0 nieuw, 0 gemist · 18.2s"}
+{"time": "2026-11-23 11:00:11.321103", "kind": "scan", "text": "scan tot 23-11 11:00 · 0 nieuw, 0 gemist · 31.3s"}
+{"time": "2026-11-23 11:15:14.398833", "kind": "scan", "text": "scan tot 23-11 11:15 · 1 nieuw, 0 gemist · 19.2s"}
+{"time": "2026-11-23 11:15:14.398833", "kind": "geplaatst", "text": "AMD · EURUSD · SHORT: limiet 1.09906 · SL 1.10066 · TP 1.09714 · 0.1 lot · geldig tot 2026-11-23 18:00:00", "order": "AMD-EUR-2611231115-1", "discord": true}

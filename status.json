@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-23 23:18:08.455457",
- "tijd_utc": "2026-11-23T21:18:08+00:00",
+ "tijd_server": "2026-11-24 00:18:19.266668",
+ "tijd_utc": "2026-11-23T22:18:19+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -10,10 +10,10 @@
   "server": "ICMarketsSC-Demo",
   "demo": true,
   "currency": "EUR",
-  "balance": 5062.13,
-  "equity": 5062.13
+  "balance": 4997.47,
+  "equity": 4997.47
  },
- "laatste_scan": "2026-11-23 23:15:11.674722",
+ "laatste_scan": "2026-11-24 00:15:15.569424",
  "open_trades": [],
  "open_orders": [
   "ZONE-GBP-2611232115-1"

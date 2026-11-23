@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 34,
-  "live": 34,
-  "gelijk": 34,
+  "backtest": 35,
+  "live": 35,
+  "gelijk": 35,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -289,7 +289,7 @@
    "richting": "SHORT",
    "bt_fill": 3604.53,
    "bt_uit": "MAX_DUUR",
-   "bt_R": -0.4789865871833059,
+   "bt_R": -0.40596125186287985,
    "live_fill": 3602.89,
    "live_uit": "loopt",
    "live_R": null,
@@ -297,9 +297,26 @@
    "commissie": null,
    "swap": null,
    "status": "verschil: één loopt nog"
+  },
+  {
+   "key": "AMD-extra (#386)|EURUSD|2026-11-23 11:45|SHORT|mkt",
+   "setup": "AMD",
+   "markt": "EURUSD",
+   "t_sig": "2026-11-23 11:45",
+   "richting": "SHORT",
+   "bt_fill": 1.09793,
+   "bt_uit": "TP",
+   "bt_R": 0.2600732600732948,
+   "live_fill": 1.09802,
+   "live_uit": "TP",
+   "live_R": 0.30679449770737804,
+   "slippage_pips": -0.8999999999992347,
+   "commissie": -0.66,
+   "swap": 0.0,
+   "status": "gelijk"
   }
  ],
- "overeenkomst": 0.7647058823529411,
- "n_trades": 17,
- "n_gelijk": 13
+ "overeenkomst": 0.7777777777777778,
+ "n_trades": 18,
+ "n_gelijk": 14
 }

@@ -1,9 +1,9 @@
 {
  "start": "2026-10-21 08:30:00",
  "signalen": {
-  "backtest": 33,
-  "live": 33,
-  "gelijk": 33,
+  "backtest": 34,
+  "live": 34,
+  "gelijk": 34,
   "pct": 1.0,
   "alleen_backtest": [],
   "alleen_live": []
@@ -289,7 +289,7 @@
    "richting": "SHORT",
    "bt_fill": 3604.53,
    "bt_uit": "MAX_DUUR",
-   "bt_R": -0.10461997019373666,
+   "bt_R": -0.4789865871833059,
    "live_fill": 3602.89,
    "live_uit": "loopt",
    "live_R": null,

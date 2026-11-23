@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-23 11:18:14.922786",
- "tijd_utc": "2026-11-23T09:18:14+00:00",
+ "tijd_server": "2026-11-23 12:18:16.238604",
+ "tijd_utc": "2026-11-23T10:18:16+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,14 +13,19 @@
   "balance": 5062.13,
   "equity": 5062.13
  },
- "laatste_scan": "2026-11-23 11:15:14.398833",
+ "laatste_scan": "2026-11-23 12:15:16.870262",
  "open_trades": [
   "AMD-XAU-2611231015-1"
  ],
- "open_orders": [
-  "AMD-EUR-2611231115-1"
- ],
+ "open_orders": [],
  "fouten": [
+  {
+   "time": "2026-11-23 12:14:16.853377",
+   "kind": "fout",
+   "text": "onbekende KATSU-order/positie #2112816586 bij de broker (niet aangeraakt)",
+   "order": null,
+   "discord": true
+  },
   {
    "time": "2026-11-22 03:02:16.484780",
    "kind": "fout",
@@ -40,11 +45,6 @@
    "time": "2026-11-14 15:03:01.703256",
    "kind": "fout",
    "text": "verbinding met MT5 al 2 min weg (sinds 15:01 server)"
-  },
-  {
-   "time": "2026-11-14 12:59:31.871991",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 12:57 server)"
   }
  ]
 }

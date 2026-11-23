@@ -48,3 +48,13 @@
 {"time": "2026-11-23 11:00:11.321103", "kind": "scan", "text": "scan tot 23-11 11:00 · 0 nieuw, 0 gemist · 31.3s"}
 {"time": "2026-11-23 11:15:14.398833", "kind": "scan", "text": "scan tot 23-11 11:15 · 1 nieuw, 0 gemist · 19.2s"}
 {"time": "2026-11-23 11:15:14.398833", "kind": "geplaatst", "text": "AMD · EURUSD · SHORT: limiet 1.09906 · SL 1.10066 · TP 1.09714 · 0.1 lot · geldig tot 2026-11-23 18:00:00", "order": "AMD-EUR-2611231115-1", "discord": true}
+{"time": "2026-11-23 11:30:15.348493", "kind": "scan", "text": "scan tot 23-11 11:30 · 0 nieuw, 0 gemist · 18.2s"}
+{"time": "2026-11-23 11:45:11.443059", "kind": "scan", "text": "scan tot 23-11 11:45 · 1 nieuw, 0 gemist · 17.4s"}
+{"time": "2026-11-23 11:45:11.443059", "kind": "geplaatst", "text": "AMD · EURUSD · SHORT: marktorder verstuurd · 0.1 lot · SL 1.10066 · TP 1.09714", "order": "AMD-EUR-2611231145-1", "discord": false}
+{"time": "2026-11-23 11:45:11.443059", "kind": "gevuld", "text": "AMD · EURUSD · SHORT: gevuld op 1.09802 · SL 1.10066 · TP 1.09714", "order": "AMD-EUR-2611231145-1", "discord": true}
+{"time": "2026-11-23 11:45:11.443059", "kind": "wacht", "text": "AMD · EURUSD · SHORT: geparkeerd: er loopt nu een trade van deze setup op dit pair", "order": "AMD-EUR-2611231115-1", "discord": true}
+{"time": "2026-11-23 12:00:10.906382", "kind": "scan", "text": "scan tot 23-11 12:00 · 0 nieuw, 0 gemist · 24.2s"}
+{"time": "2026-11-23 12:14:16.853377", "kind": "fout", "text": "onbekende KATSU-order/positie #2112816586 bij de broker (niet aangeraakt)", "order": null, "discord": true}
+{"time": "2026-11-23 12:14:16.853377", "kind": "geannuleerd", "text": "AMD · EURUSD · SHORT: TP-niveau eerst geraakt vóór de vulling", "order": "AMD-EUR-2611231115-1", "discord": true}
+{"time": "2026-11-23 12:14:26.854803", "kind": "gesloten", "text": "AMD · EURUSD · SHORT: gesloten (TP) op 1.09714 · +0.31R · +8.8 pips · +7.36", "order": "AMD-EUR-2611231145-1", "discord": true}
+{"time": "2026-11-23 12:15:16.870262", "kind": "scan", "text": "scan tot 23-11 12:15 · 0 nieuw, 0 gemist · 18.0s"}

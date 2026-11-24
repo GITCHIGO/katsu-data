@@ -1,11 +1,11 @@
 {
- "verzameld": "2026-11-24T04:18:18+00:00",
- "schijf_vrij_gb": 69.8,
+ "verzameld": "2026-11-24T05:18:20+00:00",
+ "schijf_vrij_gb": 69.6,
  "schijf_totaal_gb": 105.9,
  "waakhond": {
   "probleem": null,
   "uitleg": "alles in orde",
   "sinds": 1792639984.6320293,
-  "laatste_controle": 1795493898.09009
+  "laatste_controle": 1795497500.6048448
  }
 }

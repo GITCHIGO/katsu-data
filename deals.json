@@ -544,6 +544,23 @@
    "magic": 710102,
    "commentaar": "[sl 3638.08]",
    "reden": 4
+  },
+  {
+   "ticket": 1703390130,
+   "order": 2117953153,
+   "positie": 2117953153,
+   "tijd": "2026-11-24 17:30:43",
+   "symbool": "EURUSD",
+   "type": 1,
+   "entry": 0,
+   "volume": 0.1,
+   "prijs": 1.09721,
+   "winst": 0.0,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710101,
+   "commentaar": "T1-EUR-2611241730-1",
+   "reden": 3
   }
  ]
 }

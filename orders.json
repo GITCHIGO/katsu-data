@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-24 11:00:00",
+   "checked_bar": "2026-11-24 12:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -2810,8 +2810,8 @@
     "kosten": "0,1–0,2R",
     "nfp_dag": "nee"
    },
-   "state": "geplaatst",
-   "reason": "limiet 1.30442 · SL 1.30326 · TP 1.30675 · 0.1 lot · geldig tot 480 M15-candles",
+   "state": "geannuleerd",
+   "reason": "TP-niveau eerst geraakt vóór de vulling",
    "ticket": 2116629612,
    "position": null,
    "sl": 1.30326,
@@ -2831,16 +2831,21 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-24 11:00:00",
+   "checked_bar": "2026-11-24 11:30:00",
    "history": [
     [
      "2026-11-24 11:00:17.374303",
      "geplaatst",
      "T1 · GBPUSD · LONG: limiet 1.30442 · SL 1.30326 · TP 1.30675 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-24 11:55:23.454441",
+     "geannuleerd",
+     "T1 · GBPUSD · LONG: TP-niveau eerst geraakt vóór de vulling"
     ]
    ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-24 11:15:00"
+ "last_scan": "2026-11-24 12:15:00"
 }

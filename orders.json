@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-24 10:00:00",
+   "checked_bar": "2026-11-24 11:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -2769,8 +2769,78 @@
      "ZONE · GBPUSD · LONG: limiet 1.30182 · SL 1.30097 · TP 1.30352 · 0.1 lot · geldig tot 2026-11-30 21:15:00"
     ]
    ]
+  },
+  {
+   "id": "T1-GBP-2611241100-1",
+   "key": "Test #1 (FVG)|GBPUSD|2026-11-24 11:00|LONG|1.304425",
+   "setup": "Test #1 (FVG)",
+   "market": "GBPUSD",
+   "direction": "LONG",
+   "kind": "limit",
+   "t_sig": "2026-11-24 11:00:00",
+   "anchor": 1.30337,
+   "atr": 0.0008085714285713966,
+   "limit": 1.3044245,
+   "tp_plan": 1.30797,
+   "cancel": 1.306695214285715,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "long",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "neutraal",
+    "trend_h4": "neutraal",
+    "trend_d1": "mee",
+    "sessie": "Londen",
+    "weekdag": "di",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "0,1–0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "geplaatst",
+   "reason": "limiet 1.30442 · SL 1.30326 · TP 1.30675 · 0.1 lot · geldig tot 480 M15-candles",
+   "ticket": 2116629612,
+   "position": null,
+   "sl": 1.30326,
+   "tp": 1.30675,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": "2026-11-24 11:00:00",
+   "history": [
+    [
+     "2026-11-24 11:00:17.374303",
+     "geplaatst",
+     "T1 · GBPUSD · LONG: limiet 1.30442 · SL 1.30326 · TP 1.30675 · 0.1 lot · geldig tot 480 M15-candles"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-24 10:15:00"
+ "last_scan": "2026-11-24 11:15:00"
 }

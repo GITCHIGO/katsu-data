@@ -41,3 +41,8 @@
 {"time": "2026-11-24 09:45:13.695753", "kind": "scan", "text": "scan tot 24-11 09:45 · 0 nieuw, 0 gemist · 19.3s"}
 {"time": "2026-11-24 10:00:16.645315", "kind": "scan", "text": "scan tot 24-11 10:00 · 0 nieuw, 0 gemist · 20.6s"}
 {"time": "2026-11-24 10:15:18.670540", "kind": "scan", "text": "scan tot 24-11 10:15 · 0 nieuw, 0 gemist · 18.5s"}
+{"time": "2026-11-24 10:30:18.521416", "kind": "scan", "text": "scan tot 24-11 10:30 · 0 nieuw, 0 gemist · 17.3s"}
+{"time": "2026-11-24 10:45:17.356060", "kind": "scan", "text": "scan tot 24-11 10:45 · 0 nieuw, 0 gemist · 18.7s"}
+{"time": "2026-11-24 11:00:17.374303", "kind": "scan", "text": "scan tot 24-11 11:00 · 1 nieuw, 0 gemist · 25.7s"}
+{"time": "2026-11-24 11:00:17.374303", "kind": "geplaatst", "text": "T1 · GBPUSD · LONG: limiet 1.30442 · SL 1.30326 · TP 1.30675 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-GBP-2611241100-1", "discord": true}
+{"time": "2026-11-24 11:15:14.626161", "kind": "scan", "text": "scan tot 24-11 11:15 · 0 nieuw, 0 gemist · 21.2s"}

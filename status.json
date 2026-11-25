@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-25 13:18:23.854795",
- "tijd_utc": "2026-11-25T11:18:23+00:00",
+ "tijd_server": "2026-11-25 14:18:16.477901",
+ "tijd_utc": "2026-11-25T12:18:16+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,10 +13,8 @@
   "balance": 4997.14,
   "equity": 5001.61
  },
- "laatste_scan": "2026-11-25 13:15:10.225132",
- "open_trades": [
-  "AMD-XAU-2611251045-1"
- ],
+ "laatste_scan": "2026-11-25 14:15:18.090160",
+ "open_trades": [],
  "open_orders": [
   "ZONE-GBP-2611232115-1"
  ],

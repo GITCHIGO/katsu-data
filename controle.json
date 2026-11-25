@@ -339,18 +339,18 @@
    "t_sig": "2026-11-25 10:45",
    "richting": "LONG",
    "bt_fill": 3528.776,
-   "bt_uit": "MAX_DUUR",
-   "bt_R": 0.06580006902106075,
+   "bt_uit": "SL",
+   "bt_R": -1.018980789140688,
    "live_fill": 3528.79,
-   "live_uit": "loopt",
-   "live_R": null,
+   "live_uit": "SL",
+   "live_R": -1.0056585979251809,
    "slippage_pips": 0.1400000000012369,
-   "commissie": null,
-   "swap": null,
-   "status": "verschil: één loopt nog"
+   "commissie": -0.14,
+   "swap": 0.0,
+   "status": "gelijk"
   }
  ],
- "overeenkomst": 0.8,
+ "overeenkomst": 0.85,
  "n_trades": 20,
- "n_gelijk": 16
+ "n_gelijk": 17
 }

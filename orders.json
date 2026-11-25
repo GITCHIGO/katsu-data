@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-25 10:00:00",
+   "checked_bar": "2026-11-25 11:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -2924,8 +2924,78 @@
      "T1 · EURUSD · SHORT: gesloten (TP) op 1.09542 · +1.93R · +17.9 pips · +15.79"
     ]
    ]
+  },
+  {
+   "id": "AMD-XAU-2611251045-1",
+   "key": "AMD-extra (#386)|XAUUSD|2026-11-25 10:45|LONG|3528.776000",
+   "setup": "AMD-extra (#386)",
+   "market": "XAUUSD",
+   "direction": "LONG",
+   "kind": "limit",
+   "t_sig": "2026-11-25 10:45:00",
+   "anchor": 3512.5,
+   "atr": 10.099999999999975,
+   "limit": 3528.776,
+   "tp_plan": 3575.0,
+   "cancel": 3575.0,
+   "max_rr": null,
+   "valid_until": "2026-11-25 18:00:00",
+   "valid_bars": null,
+   "close_eod": true,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.02,
+   "magic": 710102,
+   "features": {
+    "soort": "AMD",
+    "richting": "long",
+    "sweep_dag": "ja",
+    "fvg_nummer": "n.v.t.",
+    "trend_m15": "tegen",
+    "trend_h1": "tegen",
+    "trend_h4": "tegen",
+    "trend_d1": "neutraal",
+    "sessie": "Londen",
+    "weekdag": "wo",
+    "volatiliteit": "normaal",
+    "amd_variant": "C1-E2",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "ja",
+    "kosten": "<0,1R",
+    "nfp_dag": "nee"
+   },
+   "state": "geplaatst",
+   "reason": "limiet 3528.78 · SL 3511.39 · TP 3575.0 · 0.02 lot · geldig tot 2026-11-25 18:00:00",
+   "ticket": 2120477490,
+   "position": null,
+   "sl": 3511.39,
+   "tp": 3575.0,
+   "fill_px": null,
+   "fill_time": null,
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": null,
+   "risk_money": null,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": "2026-11-25 11:00:00",
+   "history": [
+    [
+     "2026-11-25 10:45:17.459863",
+     "geplaatst",
+     "AMD · XAUUSD · LONG: limiet 3528.78 · SL 3511.39 · TP 3575.0 · 0.02 lot · geldig tot 2026-11-25 18:00:00"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-25 10:15:00"
+ "last_scan": "2026-11-25 11:15:00"
 }

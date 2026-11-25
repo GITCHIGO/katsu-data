@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-25 11:00:00",
+   "checked_bar": "2026-11-25 12:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -2965,19 +2965,19 @@
     "kosten": "<0,1R",
     "nfp_dag": "nee"
    },
-   "state": "geplaatst",
+   "state": "gevuld",
    "reason": "limiet 3528.78 · SL 3511.39 · TP 3575.0 · 0.02 lot · geldig tot 2026-11-25 18:00:00",
    "ticket": 2120477490,
-   "position": null,
+   "position": 2120477490,
    "sl": 3511.39,
    "tp": 3575.0,
-   "fill_px": null,
-   "fill_time": null,
+   "fill_px": 3528.79,
+   "fill_time": "2026-11-25 11:22:37",
    "exit_px": null,
    "exit_time": null,
    "exit_reason": null,
-   "risk_px": null,
-   "risk_money": null,
+   "risk_px": 17.40000000000009,
+   "risk_money": 31.81,
    "profit": null,
    "commission": null,
    "swap": null,
@@ -2992,10 +2992,15 @@
      "2026-11-25 10:45:17.459863",
      "geplaatst",
      "AMD · XAUUSD · LONG: limiet 3528.78 · SL 3511.39 · TP 3575.0 · 0.02 lot · geldig tot 2026-11-25 18:00:00"
+    ],
+    [
+     "2026-11-25 11:22:43.643524",
+     "gevuld",
+     "AMD · XAUUSD · LONG: gevuld op 3528.79 · SL 3511.39 · TP 3575.0"
     ]
    ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-25 11:15:00"
+ "last_scan": "2026-11-25 12:15:00"
 }

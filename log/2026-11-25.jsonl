@@ -47,3 +47,8 @@
 {"time": "2026-11-25 10:45:17.459863", "kind": "geplaatst", "text": "AMD · XAUUSD · LONG: limiet 3528.78 · SL 3511.39 · TP 3575.0 · 0.02 lot · geldig tot 2026-11-25 18:00:00", "order": "AMD-XAU-2611251045-1", "discord": true}
 {"time": "2026-11-25 11:00:14.850948", "kind": "scan", "text": "scan tot 25-11 11:00 · 0 nieuw, 0 gemist · 30.8s"}
 {"time": "2026-11-25 11:15:17.372246", "kind": "scan", "text": "scan tot 25-11 11:15 · 0 nieuw, 0 gemist · 18.9s"}
+{"time": "2026-11-25 11:22:43.643524", "kind": "gevuld", "text": "AMD · XAUUSD · LONG: gevuld op 3528.79 · SL 3511.39 · TP 3575.0", "order": "AMD-XAU-2611251045-1", "discord": true}
+{"time": "2026-11-25 11:30:14.016437", "kind": "scan", "text": "scan tot 25-11 11:30 · 0 nieuw, 0 gemist · 19.0s"}
+{"time": "2026-11-25 11:45:14.801534", "kind": "scan", "text": "scan tot 25-11 11:45 · 0 nieuw, 0 gemist · 17.5s"}
+{"time": "2026-11-25 12:00:14.127580", "kind": "scan", "text": "scan tot 25-11 12:00 · 0 nieuw, 0 gemist · 26.9s"}
+{"time": "2026-11-25 12:15:13.445310", "kind": "scan", "text": "scan tot 25-11 12:15 · 0 nieuw, 0 gemist · 21.9s"}

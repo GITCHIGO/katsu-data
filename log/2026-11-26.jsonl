@@ -1,3 +1,12 @@
 {"time": "2026-11-26 00:00:36.657642", "kind": "overzicht", "text": "Vandaag: 2 trades · netto -16.20 EUR · +0.92R | Deze maand: 17 trades · winrate 41% · netto -38.64 EUR · -3.25R | Open: 0 trades · 1 orders | Controle backtest ↔ MT5: 85% (17/20)"}
 {"time": "2026-11-26 00:00:37.666517", "kind": "scan", "text": "scan tot 26-11 00:00 · 0 nieuw, 0 gemist · 14.5s"}
 {"time": "2026-11-26 00:15:16.254557", "kind": "scan", "text": "scan tot 26-11 00:15 · 0 nieuw, 0 gemist · 13.5s"}
+{"time": "2026-11-26 00:30:11.151539", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-26 00:32:11.325690", "kind": "fout", "text": "verbinding met MT5 al 2 min weg (sinds 00:30 server)"}
+{"time": "2026-11-26 00:32:41.329287", "kind": "info", "text": "verbinding met MT5 terug na 2.5 min"}
+{"time": "2026-11-26 00:32:41.329287", "kind": "scan", "text": "scan tot 26-11 00:30 · 0 nieuw, 0 gemist · 19.0s"}
+{"time": "2026-11-26 00:33:01.636872", "kind": "info", "text": "verbinding met MT5 weg (melding in Discord pas na 2 min)"}
+{"time": "2026-11-26 00:33:21.639345", "kind": "info", "text": "verbinding met MT5 terug na 0.3 min"}
+{"time": "2026-11-26 00:45:11.846522", "kind": "scan", "text": "scan tot 26-11 00:45 · 0 nieuw, 0 gemist · 17.0s"}
+{"time": "2026-11-26 01:00:10.534181", "kind": "scan", "text": "scan tot 26-11 01:00 · 0 nieuw, 0 gemist · 35.7s"}
+{"time": "2026-11-26 01:15:17.614438", "kind": "scan", "text": "scan tot 26-11 01:15 · 0 nieuw, 0 gemist · 15.7s"}

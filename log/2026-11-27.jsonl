@@ -60,3 +60,8 @@
 {"time": "2026-11-27 13:58:56.559470", "kind": "gesloten", "text": "T1 · EURUSD · SHORT: gesloten (SL) op 1.09662 · -1.10R · -6.1 pips · -6.22", "order": "T1-EUR-2611271230-1", "discord": true}
 {"time": "2026-11-27 14:00:16.603033", "kind": "scan", "text": "scan tot 27-11 14:00 · 0 nieuw, 0 gemist · 25.4s"}
 {"time": "2026-11-27 14:15:13.471214", "kind": "scan", "text": "scan tot 27-11 14:15 · 0 nieuw, 0 gemist · 17.7s"}
+{"time": "2026-11-27 14:30:11.745633", "kind": "scan", "text": "scan tot 27-11 14:30 · 0 nieuw, 0 gemist · 23.2s"}
+{"time": "2026-11-27 14:45:16.389025", "kind": "scan", "text": "scan tot 27-11 14:45 · 0 nieuw, 0 gemist · 21.2s"}
+{"time": "2026-11-27 15:00:19.186567", "kind": "scan", "text": "scan tot 27-11 15:00 · 0 nieuw, 0 gemist · 25.9s"}
+{"time": "2026-11-27 15:15:16.482332", "kind": "scan", "text": "scan tot 27-11 15:15 · 1 nieuw, 0 gemist · 23.9s"}
+{"time": "2026-11-27 15:15:16.482332", "kind": "geplaatst", "text": "ZONE · GBPUSD · SHORT: limiet 1.31285 · SL 1.31358 · TP 1.31139 · 0.1 lot · geldig tot 2026-12-04 15:15:00", "order": "ZONE-GBP-2611271515-1", "discord": true}

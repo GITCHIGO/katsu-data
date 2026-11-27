@@ -49,3 +49,9 @@
 {"time": "2026-11-27 11:45:17.821492", "kind": "scan", "text": "scan tot 27-11 11:45 · 0 nieuw, 0 gemist · 17.9s"}
 {"time": "2026-11-27 12:00:16.358901", "kind": "scan", "text": "scan tot 27-11 12:00 · 0 nieuw, 0 gemist · 22.2s"}
 {"time": "2026-11-27 12:15:10.413078", "kind": "scan", "text": "scan tot 27-11 12:15 · 0 nieuw, 0 gemist · 41.9s"}
+{"time": "2026-11-27 12:30:17.454155", "kind": "scan", "text": "scan tot 27-11 12:30 · 1 nieuw, 0 gemist · 23.3s"}
+{"time": "2026-11-27 12:30:17.454155", "kind": "geplaatst", "text": "T1 · EURUSD · SHORT: limiet 1.09601 · SL 1.09663 · TP 1.09478 · 0.1 lot · geldig tot 480 M15-candles", "order": "T1-EUR-2611271230-1", "discord": true}
+{"time": "2026-11-27 12:30:51.791081", "kind": "gevuld", "text": "T1 · EURUSD · SHORT: gevuld op 1.09601 · SL 1.09663 · TP 1.09477", "order": "T1-EUR-2611271230-1", "discord": true}
+{"time": "2026-11-27 12:45:12.161484", "kind": "scan", "text": "scan tot 27-11 12:45 · 0 nieuw, 0 gemist · 23.2s"}
+{"time": "2026-11-27 13:00:16.859659", "kind": "scan", "text": "scan tot 27-11 13:00 · 0 nieuw, 0 gemist · 24.6s"}
+{"time": "2026-11-27 13:15:18.871538", "kind": "scan", "text": "scan tot 27-11 13:15 · 0 nieuw, 0 gemist · 20.8s"}

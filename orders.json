@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-27 12:00:00",
+   "checked_bar": "2026-11-27 13:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -3004,8 +3004,83 @@
      "AMD · XAUUSD · LONG: gesloten (SL) op 3511.37 · -1.01R · -174.2 pips · -31.99"
     ]
    ]
+  },
+  {
+   "id": "T1-EUR-2611271230-1",
+   "key": "Test #1 (FVG)|EURUSD|2026-11-27 12:30|SHORT|1.096014",
+   "setup": "Test #1 (FVG)",
+   "market": "EURUSD",
+   "direction": "SHORT",
+   "kind": "limit",
+   "t_sig": "2026-11-27 12:30:00",
+   "anchor": 1.09655,
+   "atr": 0.0006685714285714152,
+   "limit": 1.09601382,
+   "tp_plan": 1.0934,
+   "cancel": 1.0948077457142862,
+   "max_rr": 2.0,
+   "valid_until": null,
+   "valid_bars": 480,
+   "close_eod": false,
+   "tp_mode": "vast",
+   "leg_high": null,
+   "lot": 0.1,
+   "magic": 710101,
+   "features": {
+    "soort": "FVG",
+    "richting": "short",
+    "sweep_dag": "nee",
+    "fvg_nummer": "derde+",
+    "trend_m15": "tegen",
+    "trend_h1": "neutraal",
+    "trend_h4": "neutraal",
+    "trend_d1": "neutraal",
+    "sessie": "Londen",
+    "weekdag": "vr",
+    "volatiliteit": "hoog",
+    "amd_variant": "n.v.t.",
+    "zone_tf": "n.v.t.",
+    "zone_entry": "n.v.t.",
+    "sweep_azie": "nee",
+    "kosten": ">0,2R",
+    "nfp_dag": "nee"
+   },
+   "state": "gevuld",
+   "reason": "limiet 1.09601 · SL 1.09663 · TP 1.09478 · 0.1 lot · geldig tot 480 M15-candles",
+   "ticket": 2127851917,
+   "position": 2127851917,
+   "sl": 1.09663,
+   "tp": 1.09477,
+   "fill_px": 1.09601,
+   "fill_time": "2026-11-27 12:30:50",
+   "exit_px": null,
+   "exit_time": null,
+   "exit_reason": null,
+   "risk_px": 0.0006200000000000649,
+   "risk_money": 5.65,
+   "profit": null,
+   "commission": null,
+   "swap": null,
+   "net": null,
+   "r_net": null,
+   "pips": null,
+   "parked": false,
+   "close_why": null,
+   "checked_bar": null,
+   "history": [
+    [
+     "2026-11-27 12:30:17.454155",
+     "geplaatst",
+     "T1 · EURUSD · SHORT: limiet 1.09601 · SL 1.09663 · TP 1.09478 · 0.1 lot · geldig tot 480 M15-candles"
+    ],
+    [
+     "2026-11-27 12:30:51.791081",
+     "gevuld",
+     "T1 · EURUSD · SHORT: gevuld op 1.09601 · SL 1.09663 · TP 1.09477"
+    ]
+   ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-27 12:15:00"
+ "last_scan": "2026-11-27 13:15:00"
 }

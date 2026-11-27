@@ -55,3 +55,8 @@
 {"time": "2026-11-27 12:45:12.161484", "kind": "scan", "text": "scan tot 27-11 12:45 · 0 nieuw, 0 gemist · 23.2s"}
 {"time": "2026-11-27 13:00:16.859659", "kind": "scan", "text": "scan tot 27-11 13:00 · 0 nieuw, 0 gemist · 24.6s"}
 {"time": "2026-11-27 13:15:18.871538", "kind": "scan", "text": "scan tot 27-11 13:15 · 0 nieuw, 0 gemist · 20.8s"}
+{"time": "2026-11-27 13:30:11.598636", "kind": "scan", "text": "scan tot 27-11 13:30 · 0 nieuw, 0 gemist · 19.0s"}
+{"time": "2026-11-27 13:45:12.106216", "kind": "scan", "text": "scan tot 27-11 13:45 · 0 nieuw, 0 gemist · 23.1s"}
+{"time": "2026-11-27 13:58:56.559470", "kind": "gesloten", "text": "T1 · EURUSD · SHORT: gesloten (SL) op 1.09662 · -1.10R · -6.1 pips · -6.22", "order": "T1-EUR-2611271230-1", "discord": true}
+{"time": "2026-11-27 14:00:16.603033", "kind": "scan", "text": "scan tot 27-11 14:00 · 0 nieuw, 0 gemist · 25.4s"}
+{"time": "2026-11-27 14:15:13.471214", "kind": "scan", "text": "scan tot 27-11 14:15 · 0 nieuw, 0 gemist · 17.7s"}

@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-27 13:00:00",
+   "checked_bar": "2026-11-27 14:00:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -3045,25 +3045,25 @@
     "kosten": ">0,2R",
     "nfp_dag": "nee"
    },
-   "state": "gevuld",
-   "reason": "limiet 1.09601 · SL 1.09663 · TP 1.09478 · 0.1 lot · geldig tot 480 M15-candles",
+   "state": "gesloten",
+   "reason": "gesloten (SL) op 1.09662 · -1.10R · -6.1 pips · -6.22",
    "ticket": 2127851917,
    "position": 2127851917,
    "sl": 1.09663,
    "tp": 1.09477,
    "fill_px": 1.09601,
    "fill_time": "2026-11-27 12:30:50",
-   "exit_px": null,
-   "exit_time": null,
-   "exit_reason": null,
+   "exit_px": 1.09662,
+   "exit_time": "2026-11-27 13:58:52",
+   "exit_reason": "SL",
    "risk_px": 0.0006200000000000649,
    "risk_money": 5.65,
-   "profit": null,
-   "commission": null,
-   "swap": null,
-   "net": null,
-   "r_net": null,
-   "pips": null,
+   "profit": -5.5600000000000005,
+   "commission": -0.66,
+   "swap": 0.0,
+   "net": -6.220000000000001,
+   "r_net": -1.1008849557522125,
+   "pips": -6.099999999999994,
    "parked": false,
    "close_why": null,
    "checked_bar": null,
@@ -3077,10 +3077,15 @@
      "2026-11-27 12:30:51.791081",
      "gevuld",
      "T1 · EURUSD · SHORT: gevuld op 1.09601 · SL 1.09663 · TP 1.09477"
+    ],
+    [
+     "2026-11-27 13:58:56.559470",
+     "gesloten",
+     "T1 · EURUSD · SHORT: gesloten (SL) op 1.09662 · -1.10R · -6.1 pips · -6.22"
     ]
    ]
   }
  ],
  "paused": false,
- "last_scan": "2026-11-27 13:15:00"
+ "last_scan": "2026-11-27 14:15:00"
 }

@@ -612,6 +612,40 @@
    "magic": 710102,
    "commentaar": "[sl 3511.39]",
    "reden": 4
+  },
+  {
+   "ticket": 1711433764,
+   "order": 2127851917,
+   "positie": 2127851917,
+   "tijd": "2026-11-27 12:30:50",
+   "symbool": "EURUSD",
+   "type": 1,
+   "entry": 0,
+   "volume": 0.1,
+   "prijs": 1.09601,
+   "winst": 0.0,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710101,
+   "commentaar": "T1-EUR-2611271230-1",
+   "reden": 3
+  },
+  {
+   "ticket": 1711570479,
+   "order": 2128016984,
+   "positie": 2127851917,
+   "tijd": "2026-11-27 13:58:52",
+   "symbool": "EURUSD",
+   "type": 0,
+   "entry": 1,
+   "volume": 0.1,
+   "prijs": 1.09662,
+   "winst": -5.5600000000000005,
+   "commissie": -0.33,
+   "swap": 0.0,
+   "magic": 710101,
+   "commentaar": "[sl 1.09663]",
+   "reden": 4
   }
  ]
 }

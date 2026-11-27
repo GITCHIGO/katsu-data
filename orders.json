@@ -2761,7 +2761,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-27 23:00:00",
+   "checked_bar": "2026-11-27 23:45:00",
    "history": [
     [
      "2026-11-23 21:15:18.356741",
@@ -3146,7 +3146,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-27 23:00:00",
+   "checked_bar": "2026-11-27 23:45:00",
    "history": [
     [
      "2026-11-27 15:15:16.482332",
@@ -3216,7 +3216,7 @@
    "pips": null,
    "parked": false,
    "close_why": null,
-   "checked_bar": "2026-11-27 23:00:00",
+   "checked_bar": "2026-11-27 23:45:00",
    "history": [
     [
      "2026-11-27 17:15:13.111678",
@@ -3227,5 +3227,5 @@
   }
  ],
  "paused": false,
- "last_scan": "2026-11-27 23:15:00"
+ "last_scan": "2026-11-28 00:15:00"
 }

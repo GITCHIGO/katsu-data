@@ -24,7 +24,7 @@
    "slippage_pips": null,
    "commissie": null,
    "swap": null,
-   "status": "alleen backtest"
+   "status": "stand loggen (telt niet mee)"
   },
   {
    "key": "Test #1 (FVG)|GBPUSD|2026-10-29 06:15|SHORT|1.332547",
@@ -367,7 +367,7 @@
    "status": "gelijk"
   }
  ],
- "overeenkomst": 0.8571428571428571,
- "n_trades": 21,
+ "overeenkomst": 0.9,
+ "n_trades": 20,
  "n_gelijk": 18
 }

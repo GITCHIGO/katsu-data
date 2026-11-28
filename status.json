@@ -1,6 +1,6 @@
 {
- "tijd_server": "2026-11-28 01:18:35.233753",
- "tijd_utc": "2026-11-27T23:18:35+00:00",
+ "tijd_server": "2026-11-28 20:18:00.411845",
+ "tijd_utc": "2026-11-28T18:18:00+00:00",
  "verbonden": true,
  "niet_verbonden_sinds": null,
  "stand": "orders",
@@ -13,40 +13,12 @@
   "balance": 4975.05,
   "equity": 4975.05
  },
- "laatste_scan": "2026-11-28 01:15:18.137591",
+ "laatste_scan": "2026-11-28 20:15:17.500481",
  "open_trades": [],
  "open_orders": [
   "ZONE-GBP-2611232115-1",
   "ZONE-GBP-2611271515-1",
   "ZONE-GBP-2611271715-1"
  ],
- "fouten": [
-  {
-   "time": "2026-11-26 00:32:11.325690",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 00:30 server)"
-  },
-  {
-   "time": "2026-11-23 12:14:16.853377",
-   "kind": "fout",
-   "text": "onbekende KATSU-order/positie #2112816586 bij de broker (niet aangeraakt)",
-   "order": null,
-   "discord": true
-  },
-  {
-   "time": "2026-11-22 03:02:16.484780",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 03:00 server)"
-  },
-  {
-   "time": "2026-11-19 06:59:23.116764",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 06:57 server)"
-  },
-  {
-   "time": "2026-11-14 17:46:51.444443",
-   "kind": "fout",
-   "text": "verbinding met MT5 al 2 min weg (sinds 17:44 server)"
-  }
- ]
+ "fouten": []
 }

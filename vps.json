@@ -1,11 +1,11 @@
 {
- "verzameld": "2026-11-27T22:18:19+00:00",
+ "verzameld": "2026-11-28T00:18:03+00:00",
  "schijf_vrij_gb": 69.8,
  "schijf_totaal_gb": 105.9,
  "waakhond": {
-  "probleem": null,
-  "uitleg": "alles in orde",
-  "sinds": 1792639984.6320293,
-  "laatste_controle": 1795817899.2174592
+  "probleem": "stil",
+  "uitleg": "KATSU staat stil: laatste hartslag 14 min geleden (28-11 00:18)",
+  "sinds": 1795822390.1648016,
+  "laatste_controle": 1795824182.8280897
  }
 }
